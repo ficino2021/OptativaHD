@@ -1,0 +1,8 @@
+# Elementos iniciales del sitio 
+title: Seminario Optativo sobre Humanidades Digitales
+author:
+  name: Ernesto Priani Saiso
+description: "El sitio contiene los resultados del grupo de trabajo del semestre 2021-1."
+
+# Build settings
+remote_theme: jekyll/minima
