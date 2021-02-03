@@ -14,8 +14,11 @@ Ahi esta el tweet
 
 
 `<group>`
+
 `<tweet id=“J1”>`
+
 `<author>`
+
 `<name>`板垣巴留 Wolf face BEASTARSとか `</name>`
 `<screenName>`@itaparu99 `</screenName>`
 `</author>`
