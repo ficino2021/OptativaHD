@@ -3,4 +3,6 @@ layout: page
 title: Diarios Pandémicos
 ---
 
-# Enero
+# Diarios Pandémicos
+
+## Enero 2020
