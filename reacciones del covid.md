@@ -1,5 +1,5 @@
 ---
 layout: page
-title: About
+title: reacciones al covid 
 ---
-#comicos
+# comicos <h1> tag
