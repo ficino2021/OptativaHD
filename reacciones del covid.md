@@ -2,4 +2,4 @@
 layout: page
 title: About
 ---
-#comicos#
+#comicos
