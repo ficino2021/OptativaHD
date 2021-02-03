@@ -33,7 +33,7 @@ stay safe!
 `</interp>`
 `</tweetText>`
 `<creationDate>` 10 nov. 2020 `</creationDate>`
-`<source>` https://twitter.com/itaparu99/status/1326130521290629120 `</source>`
+`<source>` [https://twitter.com/itaparu99/status/1326130521290629120](https://twitter.com/itaparu99/status/1326130521290629120)`</source>`
 `</tweet>`
 
 <tweet id="J2"
