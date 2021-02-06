@@ -4,19 +4,18 @@ title: tweets
 ---
 
 # tweets 2020-2021
-**los eventos más importantes**
+**cosas importantes**
 
 
-'<group>'
+`<group>` 
 
-'<tweet id=”https://twitter.com/DomyN6/status/1237786687356493824”>'
+`<tweet id=”https://twitter.com/DomyN6/status/1237786687356493824”>`
+`<author>`
+`<name>`@DomyN6`</name>`
+`<screenName>`Domiziana Marrone`</screenName>`
+`</author>`
 
-'<author>'
-'<name>'@DomyN6'</name>'
-'<screenName>'Domiziana Marrone'</screenName>'
-'</author>'
-
-'<creationDate>11:05 a. m. · 11 mar. 2020</creationDate>'
+`<creationDate>` 11:05 a. m. · 11 mar. 2020 `</creationDate>`
 
 '<tweetText>'
   '<lang type="it">' La dichiarazione dell'#OMS : il #COVID19 è ora una #pandemia '</lang>'
@@ -28,7 +27,7 @@ title: tweets
 
 '<interp>'Declaración de la pandemia'</interp>'
 
-'<source>'https://twitter.com/DomyN6/status/1237786687356493824'</source>'
+` <source>`[https://twitter.com/DomyN6/status/1237786687356493824](https://twitter.com/DomyN6/status/1237786687356493824)`</source>`
 
 '</tweet>'
 
