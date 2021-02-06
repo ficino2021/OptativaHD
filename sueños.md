@@ -46,7 +46,7 @@ Ella es mi abuela, tiene 95 años, se encontraba en la residencial la cual todos
 
 `</tweetText>`
 
-`<source>` https://twitter.com/matiaascaastro/status/1349214025184391168?s=19 `</source>`
+`<source>` [https://twitter.com/matiaascaastro/status/1349214025184391168?s=19](https://twitter.com/matiaascaastro/status/1349214025184391168?s=19) `</source>` 
 
 `</tweet>`
 
