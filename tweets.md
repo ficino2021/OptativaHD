@@ -30,7 +30,7 @@ title: tweets
   `<lang type="it">` La dichiarazione dell'#OMS : il #COVID19 è ora una #pandemia `</lang>`
   `<lang type="eng">` BBC News - Coronavirus confirmed as pandemic by World Health Organization `</lang>`
 `<figure>`
-	`<figDesc>`Foto de una farmacia, calle solitaria BBC News Cironavirus Confirmed as Pandemic by WHO liga a `</figDesc>`
+	`<figDesc>`Foto de una farmacia, calle solitaria BBC News Coronavirus Confirmed as Pandemic by WHO liga a `</figDesc>`
 	`<link target="https://www.bbc.co.uk/news/world-51839944"/>`
 `</figure>`
 `</tweetText>`
