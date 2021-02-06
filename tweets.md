@@ -5,7 +5,9 @@ title: tweets
 
 # tweets 2020-2021
 
-**Geopolítica**
+**Política Internacional**
+
+**Política en México**
 
 **Ciencia y Tecnología**
 
