@@ -7,5 +7,4 @@ description: "El sitio contiene los resultados del grupo de trabajo del semestre
 # Build settings
 remote_theme: jekyll/minima
 
-minima:
-  skin: dark
+
