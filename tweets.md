@@ -1,5 +1,5 @@
 ---
-layout: Dark
+layout: page
 title: tweets
 ---
 
