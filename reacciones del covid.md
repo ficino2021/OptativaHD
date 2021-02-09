@@ -10,9 +10,9 @@ title: reacciones al covid
 
 '<author>'
 
-'<name>Matias Castro</name>'
+'<name>'Matias Castro'</name>'
 
-'<screenName>@matiaascaastro</screenName>'
+'<screenName>'@matiaascaastro'</screenName>'
 
 '</author>'
 
