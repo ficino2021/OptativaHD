@@ -44,3 +44,42 @@ title: reacciones al covid
 '</tweetText>'
 '<source>https://twitter.com/alexpedmd/status/1353833193477177345?s=20</source>'
 '</tweet>'
+
+
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Hoy es mi último día de cuarentena y el atardecer fue hermoso. It feels so good to be alive 🌇 <a href="https://t.co/khAOBFqZyP">pic.twitter.com/khAOBFqZyP</a></p>&mdash; Isa. (@isaisa_b) <a href="https://twitter.com/isaisa_b/status/1349127887425830917?ref_src=twsrc%5Etfw">January 12, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+'<tweet id=“MV03”>'
+
+'<author>'
+
+'<name>Isa</name>'
+
+<screenName>@isaisa_b</screenName>'
+
+'</author>'
+
+'<tweetText>'
+
+'<interp type="Alegres">'
+
+'<lang type="ESP">'
+
+'Hoy es mi último día de cuarentena y el atardecer fue hermoso. It feels so good to be alive'
+
+'<figure>'
+
+'<figDesc>la foto de un atardecer tras una ventana</figDesc>'
+
+'</figure>'
+
+'<creationDate>12/01/2021</creationDate>'
+
+'</interp>'
+
+'</lang type="ESP">'
+
+'</tweetText>'
+
+'<source>https://twitter.com/isaisa_b/status/1349127887425830917?s=19</source>'
+
+'</tweet>'
