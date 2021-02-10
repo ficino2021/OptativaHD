@@ -16,7 +16,7 @@ title: Diarios Pandémicos
 `</author>`
 `<creationDate>25 ene. 2020</creationDate>`
 `<tweetText>`
-`<figure>` YO CREO QUE EL `<term type=slang">` CORONAVIRUS</term>` NO VA A SER POPULAR EN MÉXICO PORQUE MUCHA GENTE NO PUEDE IR AL CORONA, ESTÁ MAL DECIRLO PERO ES LA REALIDAD, YO SÍ IRÉ AL CORONA Y ME SOBRA UN BOLETO, SI ME PASAS TU GUATS VAMOS JUNTOS, ME LATE UN BUEN EL CORONA Y LAS CHELAS Y LOS STROKES.`
+`<figure>` YO CREO QUE EL `<term type=slang">` CORONAVIRUS `</term>` NO VA A SER POPULAR EN MÉXICO PORQUE MUCHA GENTE NO PUEDE IR AL CORONA, ESTÁ MAL DECIRLO PERO ES LA REALIDAD, YO SÍ IRÉ AL CORONA Y ME SOBRA UN BOLETO, SI ME PASAS TU GUATS VAMOS JUNTOS, ME LATE UN BUEN EL CORONA Y LAS CHELAS Y LOS STROKES.
 `<figDesc>` Videomeme hombre explicándole a una mujer algo al oido, mujer tiene cara de desagrado `</figDesc>`
 `</figure>`
 `</tweetText>`
