@@ -21,7 +21,7 @@ title: Diarios Pandémicos
 `</figure>`
 `</tweetText>`
 `<interp>funny</interp>`
-`<source>[https://twitter.com/rufianmelancoli/status/1221145251269828608?s=20](https://twitter.com/rufianmelancoli/status/1221145251269828608?s=20) </source>`
+`<source>`[https://twitter.com/rufianmelancoli/status/1221145251269828608?s=20](https://twitter.com/rufianmelancoli/status/1221145251269828608?s=20)`</source>`
 `</tweet>`
 
 <blockquote class="twitter-tweet"><p lang="es" dir="ltr">Bañarme o esperar temblando en posición fetal la llegada del coronavirus. Difícil decidir.</p>&mdash; Rufián (@rufianmelancoli) <a href="https://twitter.com/rufianmelancoli/status/1221798280528629761?ref_src=twsrc%5Etfw">January 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
