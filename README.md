@@ -3,7 +3,7 @@ Sitio del seminario optativo de Humanidades Digitales
 
 marcas que se van a usar 
 
-# es para negeritas
+# es para negritas
 esta comilla ` es para código y se cierra con otra igual `
 Las ligas se colocan [aqui también va la liga](aqui va la liga)
 
