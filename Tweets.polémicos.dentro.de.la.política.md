@@ -7,12 +7,12 @@ title: Tweets polémicos dentro de la política
 # **Polémica política**
 
 # *Tweets polémicos en Estados Unidos*
-
+  
 Hilo
-
+  
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">You had Jeffrey Epstein killed to cover up your history of child trafficking and rape. We&#39;ve have the recipts here: <a href="https://t.co/zYnSn3kCNe">https://t.co/zYnSn3kCNe</a><br><br> <a href="https://t.co/rfqlmd4Mm4">https://t.co/rfqlmd4Mm4</a></p>&mdash; Anonymous (@YourAnonCentral) <a href="https://twitter.com/YourAnonCentral/status/1266993717207904256?ref_src=twsrc%5Etfw">May 31, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
+  
+  
 `<tweet id=“MV01”>`
 `<author>`
 `<name>` Anonymus `</name>`
@@ -28,14 +28,14 @@ You had Jeffrey Epstein killed to cover up your history of child trafficking and
 `</tweetText>`
 `<source>` [https://twitter.com/YourAnonCentral/status/1266993717207904256](https://twitter.com/matiaascaastro/status/1349214025184391168?s=19) `</source>`
 `</tweet>`
-
-
-
-
-
+  
+  
+  
+  
+  
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">It’s a new day in America.</p>&mdash; Joe Biden (@JoeBiden) <a href="https://twitter.com/JoeBiden/status/1351897267666608129?ref_src=twsrc%5Etfw">January 20, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
+  
+  
 `<tweet id=“MV01”>`
 `<author>`
 `<name>` Joe Biden `</name>`
@@ -50,14 +50,14 @@ It’s a new day in America.
 `</tweetText>`
 `<source>` [https://twitter.com/JoeBiden/status/1351897267666608129](https://twitter.com/matiaascaastro/status/1349214025184391168?s=19) `</source>`
 `</tweet>`
-
-
-
-
-
+  
+  
+  
+  
+  
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">For the people—always. <a href="https://t.co/KW0TS1cnUq">pic.twitter.com/KW0TS1cnUq</a></p>&mdash; Kamala Harris (@KamalaHarris) <a href="https://twitter.com/KamalaHarris/status/1351927707899211776?ref_src=twsrc%5Etfw">January 20, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
+  
+  
 `<tweet id=“MV01”>`
 `<author>`
 `<name>` Kamala Harris `</name>`
@@ -74,14 +74,14 @@ For the people—always.
 `</interp>`
 `</tweetText>`
 `<source>` [https://twitter.com/KamalaHarris/status/1351927707899211776](https://twitter.com/matiaascaastro/status/1349214025184391168?s=19) `</source>`
-
-
-
+  
+  
+  
 Link/video
-
+  
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Tune in for the first press briefing of the Biden-Harris Administration with Press Secretary Jen Psaki. <a href="https://t.co/psa19eCLQa">https://t.co/psa19eCLQa</a></p>&mdash; The White House (@WhiteHouse) <a href="https://twitter.com/WhiteHouse/status/1352042814972985345?ref_src=twsrc%5Etfw">January 20, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
+  
+  
 `<tweet id=“MV01”>`
 `<author>`
 `<name>` The White House `</name>`
@@ -97,15 +97,15 @@ Tune in for the first press briefing of the Biden-Harris Administration with Pre
 `</tweetText>`
 `<source>` [https://twitter.com/WhiteHouse/status/1352042814972985345](https://twitter.com/matiaascaastro/status/1349214025184391168?s=19) `</source>`
 `</tweet>`
-
-
-
-
+  
+  
+  
+  
 retweet
-
+  
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Today was a good day.<br><br>And it was only possible because of you. Because you made calls. Because you marched. Because you wore your masks and voted like never before.<br><br>For four years, you defended our democracy with everything you had—and now, our country can enter a new day. <a href="https://t.co/JicHOQCIxt">https://t.co/JicHOQCIxt</a></p>&mdash; Barack Obama (@BarackObama) <a href="https://twitter.com/BarackObama/status/1352092714599391233?ref_src=twsrc%5Etfw">January 21, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
+  
+  
 `<tweet id=“MV01”>`
 `<author>`
 `<name>` Barack Obama `</name>`
@@ -122,4 +122,26 @@ For four years, you defended our democracy with everything you had—and now, ou
 `</interp>`
 `</tweetText>`
 `<source>` [https://twitter.com/BarackObama/status/1352092714599391233](https://twitter.com/matiaascaastro/status/1349214025184391168?s=19) `</source>`
+`</tweet>`
+  
+    
+      
+        
+          
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The fact is systemic racism touches every facet of American life, and everyone — no matter your race or ethnicity — benefits when we build a more equitable America.</p>&mdash; President Biden (@POTUS) <a href="https://twitter.com/POTUS/status/1354221331605319681?ref_src=twsrc%5Etfw">January 27, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  
+    
+`<tweet id=“MV01”>`
+`<author>`
+`<name>` President Biden `</name>`
+`<screenName>` @POTUS `</screenName>`
+`</author>`
+`<tweetText>`
+`<lang type="EN">`
+The fact is systemic racism touches every facet of American life, and everyone — no matter your race or ethnicity — benefits when we build a more equitable America.
+`<creationDate>` 26/01/2021 `</creationDate>`
+`</lang>`
+`</interp>`
+`</tweetText>`
+`<source>` [https://twitter.com/POTUS/status/1354221331605319681](https://twitter.com/matiaascaastro/status/1349214025184391168?s=19) `</source>`
 `</tweet>`
