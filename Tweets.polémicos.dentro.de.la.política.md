@@ -6,7 +6,7 @@ title: Tweets polémicos dentro de la política
 
 # **Polémica política**
 
-# *Tweets polémicos en Estados Unidos*
+## *Tweets polémicos en Estados Unidos*
   
 Hilo
   
