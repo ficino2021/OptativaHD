@@ -4,9 +4,31 @@ title: Tweets polémicos dentro de la política
 ---
 
 
-# **Polémica política**
+# **Política polemica**
 
-## *Tweets polémicos en Estados Unidos*
+## *México*
+
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">A la salida del hotel de Ometepec, saludé y atendí peticiones de la gente. Vamos a Xochistlahuaca. <a href="https://t.co/oNrRGriI1T">pic.twitter.com/oNrRGriI1T</a></p>&mdash; Andrés Manuel (@lopezobrador_) <a href="https://twitter.com/lopezobrador_/status/1238866717595578369?ref_src=twsrc%5Etfw">March 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+`<tweet id=“MV01”>`
+`<author>`
+`<name>` Andrés Manuel `</name>`
+`<screenName>` @lopezobrador_ `</screenName>`
+`</author>`
+`<tweetText>`
+`<lang type="EN">`
+A la salida del hotel de Ometepec, saludé y atendí peticiones de la gente. Vamos a Xochistlahuaca.
+`<figure>`
+`<figDesc>` Video del presidente rodeado de personas amontonandose para tomarse una foto con él. `</figDesc>`
+`</figure>`
+`<creationDate>` 14/03/2020 `</creationDate>`
+`</lang>`
+`</interp>`
+`</tweetText>`
+`<source>` [https://twitter.com/lopezobrador_/status/1238866717595578369?s=19] `</source>`
+
+## *Estados Unidos*
   
 Hilo
   
@@ -26,7 +48,7 @@ You had Jeffrey Epstein killed to cover up your history of child trafficking and
 `</lang>`
 `</interp>`
 `</tweetText>`
-`<source>` [https://twitter.com/YourAnonCentral/status/1266993717207904256](https://twitter.com/matiaascaastro/status/1349214025184391168?s=19) `</source>`
+`<source>` [https://twitter.com/YourAnonCentral/status/1266993717207904256] `</source>`
 `</tweet>`
   
   
@@ -48,7 +70,7 @@ It’s a new day in America.
 `</lang>`
 `</interp>`
 `</tweetText>`
-`<source>` [https://twitter.com/JoeBiden/status/1351897267666608129](https://twitter.com/matiaascaastro/status/1349214025184391168?s=19) `</source>`
+`<source>` [https://twitter.com/JoeBiden/status/1351897267666608129] `</source>`
 `</tweet>`
   
   
@@ -73,7 +95,8 @@ For the people—always.
 `</lang>`
 `</interp>`
 `</tweetText>`
-`<source>` [https://twitter.com/KamalaHarris/status/1351927707899211776](https://twitter.com/matiaascaastro/status/1349214025184391168?s=19) `</source>`
+`<source>` [https://twitter.com/KamalaHarris/status/1351927707899211776] `</source>`
+  `</tweet>`
   
   
   
@@ -95,7 +118,7 @@ Tune in for the first press briefing of the Biden-Harris Administration with Pre
 `</lang>`
 `</interp>`
 `</tweetText>`
-`<source>` [https://twitter.com/WhiteHouse/status/1352042814972985345](https://twitter.com/matiaascaastro/status/1349214025184391168?s=19) `</source>`
+`<source>` [https://twitter.com/WhiteHouse/status/1352042814972985345] `</source>`
 `</tweet>`
   
   
@@ -121,7 +144,7 @@ For four years, you defended our democracy with everything you had—and now, ou
 `</lang>`
 `</interp>`
 `</tweetText>`
-`<source>` [https://twitter.com/BarackObama/status/1352092714599391233](https://twitter.com/matiaascaastro/status/1349214025184391168?s=19) `</source>`
+`<source>` [https://twitter.com/BarackObama/status/1352092714599391233] `</source>`
 `</tweet>`
   
     
@@ -143,5 +166,5 @@ The fact is systemic racism touches every facet of American life, and everyone �
 `</lang>`
 `</interp>`
 `</tweetText>`
-`<source>` [https://twitter.com/POTUS/status/1354221331605319681](https://twitter.com/matiaascaastro/status/1349214025184391168?s=19) `</source>`
+`<source>` [https://twitter.com/POTUS/status/1354221331605319681] `</source>`
 `</tweet>`
