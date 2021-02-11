@@ -126,6 +126,251 @@ Avanzamos en la aplicación de la vacuna contra el #COVID19. Es la esperanza má
 `<source>` [https://twitter.com/lopezobrador_/status/1343375224532832258] `</source>`
 `</tweet>`
 
+
+
+
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">No hay mejor muestra de la responsabilidad del pueblo de México ante la pandemia, que esta imagen de la Basílica en el día dedicado a la Virgen de Guadalupe. Entre todos los símbolos, los mexicanos sitúan en primer lugar la veneración a la Virgen y en segundo el respeto a Juárez. <a href="https://t.co/ELf6psQe7V">pic.twitter.com/ELf6psQe7V</a></p>&mdash; Andrés Manuel (@lopezobrador_) <a href="https://twitter.com/lopezobrador_/status/1337829604174655488?ref_src=twsrc%5Etfw">December 12, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+`<tweet id=“MV01”>`
+`<author>`
+`<name>` Andrés Manuel `</name>`
+`<screenName>` @lopezobrador_ `</screenName>`
+`</author>`
+`<tweetText>`
+`<lang type="ESP">`
+No hay mejor muestra de la responsabilidad del pueblo de México ante la pandemia, que esta imagen de la Basílica en el día dedicado a la Virgen de Guadalupe. Entre todos los símbolos, los mexicanos sitúan en primer lugar la veneración a la Virgen y en segundo el respeto a Juárez.
+`<figure>`
+`<figDesc>` Una imágen desde el cielo de la Basílica de Guadalipe y otra vista desde una cámara de seguridad vista desde el nivel del suelo. `</figDesc>`
+`</figure>`
+`<creationDate>` 12/12/2020 `</creationDate>`
+`</lang>`
+`</interp>`
+`</tweetText>`
+`<source>` [https://twitter.com/lopezobrador_/status/1337829604174655488] `</source>`
+`</tweet>`
+
+
+
+
+
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Nuestra familia les desea un feliz año 2021. Hoy, en homenaje a los fallecidos por <a href="https://twitter.com/hashtag/COVID19?src=hash&amp;ref_src=twsrc%5Etfw">#COVID19</a>, sembramos en el jardín de Palacio Nacional un ahuehuete que hace unos días me regalaron dirigentes del Frente de Pueblos en Defensa de la Tierra de Atenco. <a href="https://t.co/U1lW04YpQu">pic.twitter.com/U1lW04YpQu</a></p>&mdash; Andrés Manuel (@lopezobrador_) <a href="https://twitter.com/lopezobrador_/status/1344780378158948352?ref_src=twsrc%5Etfw">December 31, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+`<tweet id=“MV01”>`
+`<author>`
+`<name>` Andrés Manuel `</name>`
+`<screenName>` @lopezobrador_ `</screenName>`
+`</author>`
+`<tweetText>`
+`<lang type="ESP">`
+Nuestra familia les desea un feliz año 2021. Hoy, en homenaje a los fallecidos por #COVID19, sembramos en el jardín de Palacio Nacional un ahuehuete que hace unos días me regalaron dirigentes del Frente de Pueblos en Defensa de la Tierra de Atenco.
+`<figure>`
+`<figDesc>` Video del presidente junto a su esposa en el jardín del Palacio Nacional. El presidente sostiene una pala mientras habla frente a la cámara. La primera dama está parada a su lado. `</figDesc>`
+`</figure>`
+`<creationDate>` 31/12/2020 `</creationDate>`
+`</lang>`
+`</interp>`
+`</tweetText>`
+`<source>` [https://twitter.com/lopezobrador_/status/1344780378158948352] `</source>`
+`</tweet>`
+
+
+
+
+
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Desde el histórico ayuntamiento de Valladolid, Yucatán, he conversado por teléfono con el presidente electo de Estados Unidos, Joseph Biden. Reafirmamos el compromiso de trabajar juntos por el bienestar de nuestros pueblos y naciones. <a href="https://t.co/SFAZR9H0NP">pic.twitter.com/SFAZR9H0NP</a></p>&mdash; Andrés Manuel (@lopezobrador_) <a href="https://twitter.com/lopezobrador_/status/1340448798775001088?ref_src=twsrc%5Etfw">December 20, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+`<tweet id=“MV01”>`
+`<author>`
+`<name>` Andrés Manuel `</name>`
+`<screenName>` @lopezobrador_ `</screenName>`
+`</author>`
+`<tweetText>`
+`<lang type="ESP">`
+Desde el histórico ayuntamiento de Valladolid, Yucatán, he conversado por teléfono con el presidente electo de Estados Unidos, Joseph Biden. Reafirmamos el compromiso de trabajar juntos por el bienestar de nuestros pueblos y naciones.
+`<figure>`
+`<figDesc>` Imágen de tres personas al rededor de una mesa. Una de las personas tiene puesto un cubrebocas. Los otros dos tienen papeles sobre la mesa. Detrás se encuentra un cuedro de un hombre de pie y a lado la bandera mexicana. `</figDesc>`
+`</figure>`
+`<creationDate>` 19/12/2020 `</creationDate>`
+`</lang>`
+`</interp>`
+`</tweetText>`
+`<source>` [https://twitter.com/lopezobrador_/status/1340448798775001088] `</source>`
+`</tweet>`
+
+
+
+
+
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Que conteste <a href="https://twitter.com/HLGatell?ref_src=twsrc%5Etfw">@HLGatell</a> :<br><br>¿Por qué compra la vacuna rusa que no tiene aval de la OMS ni de la comunidad científica internacional?<br><br>A ver, que conteste la pregunta.</p>&mdash; Lilly Téllez (@LillyTellez) <a href="https://twitter.com/LillyTellez/status/1354256084161024000?ref_src=twsrc%5Etfw">January 27, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+`<tweet id=“MV01”>`
+`<author>`
+`<name>` Lilly Téllez `</name>`
+`<screenName>` @LillyTellez `</screenName>`
+`</author>`
+`<tweetText>`
+`<lang type="ESP">`
+Que conteste @HLGatell:
+¿Por qué compra la vacuna rusa que no tiene aval de la OMS ni de la comunidad científica internacional?
+A ver, que conteste la pregunta.
+`<creationDate>` 26/01/2021 `</creationDate>`
+`</lang>`
+`</interp>`
+`</tweetText>`
+`<source>` [https://twitter.com/LillyTellez/status/1354256084161024000] `</source>`
+`</tweet>`
+
+
+
+
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">La 4T pide a Twitter que cierren mi cuenta por decir la verdad sobre la vacuna rusa: <br><br>NO está aprobada por la comunidad científica internacional y Alemania NO les compró vacunas, solo les ofreció ayuda porque su vacuna NO aprueba requisitos para entrar a la UE.</p>&mdash; Lilly Téllez (@LillyTellez) <a href="https://twitter.com/LillyTellez/status/1354114779095343110?ref_src=twsrc%5Etfw">January 26, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+`<tweet id=“MV01”>`
+`<author>`
+`<name>` Lilly Téllez `</name>`
+`<screenName>` @LillyTellez `</screenName>`
+`</author>`
+`<tweetText>`
+`<lang type="ESP">`
+La 4T pide a Twitter que cierren mi cuenta por decir la verdad sobre la vacuna rusa: 
+NO está aprobada por la comunidad científica internacional y Alemania NO les compró vacunas, solo les ofreció ayuda porque su vacuna NO aprueba requisitos para entrar a la UE.
+`<creationDate>` 26/01/2021 `</creationDate>`
+`</lang>`
+`</interp>`
+`</tweetText>`
+`<source>` [https://twitter.com/LillyTellez/status/1354114779095343110] `</source>`
+`</tweet>`
+
+
+
+
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">México no requiere “afecto” de Rusia; un país antidemocrático, autoritario, sin libertad de expresión y corrupto.<br>Menos necesitamos sus vacunas de mala calidad, no subestimen al pueblo.</p>&mdash; Lilly Téllez (@LillyTellez) <a href="https://twitter.com/LillyTellez/status/1353741627576127490?ref_src=twsrc%5Etfw">January 25, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+`<tweet id=“MV01”>`
+`<author>`
+`<name>` Lilly Téllez `</name>`
+`<screenName>` @LillyTellez `</screenName>`
+`</author>`
+`<tweetText>`
+`<lang type="ESP">`
+México no requiere “afecto” de Rusia; un país antidemocrático, autoritario, sin libertad de expresión y corrupto.
+Menos necesitamos sus vacunas de mala calidad, no subestimen al pueblo.
+`<creationDate>` 26/01/2021 `</creationDate>`
+`</lang>`
+`</interp>`
+`</tweetText>`
+`<source>` [https://twitter.com/LillyTellez/status/1353741627576127490] `</source>`
+`</tweet>`
+
+
+
+hilo
+
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Hoy, 24 de diciembre, inicia la vacunación contra <a href="https://twitter.com/hashtag/COVID19?src=hash&amp;ref_src=twsrc%5Etfw">#COVID19</a> en México y cambia el manejo de la epidemia con una luz de esperanza; ya tenemos un instrumento de protección efectivo. 1/2 <a href="https://t.co/nfQIxAHIRz">pic.twitter.com/nfQIxAHIRz</a></p>&mdash; Hugo López-Gatell Ramírez (@HLGatell) <a href="https://twitter.com/HLGatell/status/1342113138204942336?ref_src=twsrc%5Etfw">December 24, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+`<tweet id=“MV01”>`
+`<author>`
+`<name>` Hugo López-Gatell Ramírez `</name>`
+`<screenName>` @HLGatell `</screenName>`
+`</author>`
+`<tweetText>`
+`<lang type="ESP">`
+Hoy, 24 de diciembre, inicia la vacunación contra #COVID19 en México y cambia el manejo de la epidemia con una luz de esperanza; ya tenemos un instrumento de protección efectivo. 1/2
+`<figure>`
+`<figDesc>` Imágen con dos personas al frente; una sentada en una silla mientras otra le aplica una vacuna en el hombro. Detrás otras dos personas paradas en cada lado. `</figDesc>`
+`</figure>`
+`<creationDate>` 24/12/2020 `</creationDate>`
+`</lang>`
+`</interp>`
+`</tweetText>`
+`<source>` [https://twitter.com/HLGatell/status/1342113138204942336] `</source>`
+`</tweet>`
+
+
+
+
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Acompañamos al presidente <a href="https://twitter.com/lopezobrador_?ref_src=twsrc%5Etfw">@lopezobrador_</a> en la llamada con el presidente de Rusia, Vladimir Putin, quien respaldó el acuerdo de adquirir 24 millones de dosis, para 12 millones de personas, de la vacuna Sputnik V. Esto es resultado de la exitosa visita del 7 de enero a Argentina. <a href="https://t.co/9kdMnHod54">pic.twitter.com/9kdMnHod54</a></p>&mdash; Hugo López-Gatell Ramírez (@HLGatell) <a href="https://twitter.com/HLGatell/status/1353760262638211075?ref_src=twsrc%5Etfw">January 25, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
+`<tweet id=“MV01”>`
+`<author>`
+`<name>` Hugo López-Gatell Ramírez `</name>`
+`<screenName>` @HLGatell `</screenName>`
+`</author>`
+`<tweetText>`
+`<lang type="ESP">`
+Acompañamos al presidente @lopezobrador_  en la llamada con el presidente de Rusia, Vladimir Putin, quien respaldó el acuerdo de adquirir 24 millones de dosis, para 12 millones de personas, de la vacuna Sputnik V. Esto es resultado de la exitosa visita del 7 de enero a Argentina.
+`<figure>`
+`<figDesc>` Imágen una persona sentada frente a un escritorio de madera con una computadora sobre ella, está haciendo videollamada con otra persona. Detras del hombre hay una bandera mexicana y un telefono. `</figDesc>`
+`</figure>`
+`<creationDate>` 25/01/2021 `</creationDate>`
+`</lang>`
+`</interp>`
+`</tweetText>`
+`<source>` [https://twitter.com/HLGatell/status/1353760262638211075] `</source>`
+`</tweet>`
+
+
+
+
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">La secretaria de Gobernación, <a href="https://twitter.com/M_OlgaSCordero?ref_src=twsrc%5Etfw">@M_OlgaSCordero</a>, aseguró que la consulta ciudadana para la despenalización del aborto no es por los derechos, ya que &quot;los derechos no son discutibles&quot;. Lee más: <a href="https://t.co/RsWMya1Bdi">https://t.co/RsWMya1Bdi</a> <a href="https://t.co/JOIKmP2Ied">pic.twitter.com/JOIKmP2Ied</a></p>&mdash; Animal Político (@Pajaropolitico) <a href="https://twitter.com/Pajaropolitico/status/1354452659881828359?ref_src=twsrc%5Etfw">January 27, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+`<tweet id=“MV01”>`
+`<author>`
+`<name>` Animal Político `</name>`
+`<screenName>` @Pajaropolitico `</screenName>`
+`</author>`
+`<tweetText>`
+`<lang type="ESP">`
+La secretaria de Gobernación, @M_OlgaSCordero , aseguró que la consulta ciudadana para la despenalización del aborto no es por los derechos, ya que "los derechos no son discutibles". Lee más: `<link>` https://animalpolitico.com/2021/01/consulta-ciudadana-aborto-sanchez-cordero-amlo/ `</link>`
+`<figure>`
+`<figDesc>` Video de una mujer parada frente a un micrófono hablando, detrás de ella está la bandera mexicana y frente a ella varias periodistas haciendole preguntas. `</figDesc>`
+`</figure>`
+`<creationDate>` 27/01/2021 `</creationDate>`
+`</lang>`
+`</interp>`
+`</tweetText>`
+`<source>` [https://twitter.com/Pajaropolitico/status/1354452659881828359?s=20] `</source>`
+`</tweet>`
+
+
+
+
+
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Taiwán tiene 25 millones de habitantes y han muerto sólo 7 personas por COVID. En Nueva Zelanda solo 25. Ambas economías están abiertas y los niños van a la escuela. <br>La diferencia es que, desde el principio, tomaron muy en serio la pandemia. En México el manejo ha sido criminal. <a href="https://t.co/xBc0KlMNTB">pic.twitter.com/xBc0KlMNTB</a></p>&mdash; RicardoAnayaC (@RicardoAnayaC) <a href="https://twitter.com/RicardoAnayaC/status/1333410501934669825?ref_src=twsrc%5Etfw">November 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+`<tweet id=“MV01”>`
+`<author>`
+`<name>` RicardoAnayaC `</name>`
+`<screenName>` @RicardoAnayaC `</screenName>`
+`</author>`
+`<tweetText>`
+`<lang type="ESP">`
+Taiwán tiene 25 millones de habitantes y han muerto sólo 7 personas por COVID. En Nueva Zelanda solo 25. Ambas economías están abiertas y los niños van a la escuela. 
+La diferencia es que, desde el principio, tomaron muy en serio la pandemia. En México el manejo ha sido criminal.
+`<figure>`
+`<figDesc>` Video de una hombre hablando frente a la cámara y pasando una sucesión de imágenes respecto al tema. Hay subtitulos debajo. `</figDesc>`
+`</figure>`
+`<creationDate>` 30/11/2020 `</creationDate>`
+`</lang>`
+`</interp>`
+`</tweetText>`
+`<source>` [https://twitter.com/RicardoAnayaC/status/1333410501934669825] `</source>`
+`</tweet>`
+
+
+
+
 ## *Estados Unidos*
   
 Hilo
@@ -266,3 +511,8 @@ The fact is systemic racism touches every facet of American life, and everyone �
 `</tweetText>`
 `<source>` [https://twitter.com/POTUS/status/1354221331605319681] `</source>`
 `</tweet>`
+
+
+
+## *Reino Unido*
+
