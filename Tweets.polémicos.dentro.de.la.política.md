@@ -17,7 +17,7 @@ title: Tweets polémicos dentro de la política
 `<screenName>` @lopezobrador_ `</screenName>`
 `</author>`
 `<tweetText>`
-`<lang type="EN">`
+`<lang type="ESP">`
 A la salida del hotel de Ometepec, saludé y atendí peticiones de la gente. Vamos a Xochistlahuaca.
 `<figure>`
 `<figDesc>` Video del presidente rodeado de personas amontonandose para tomarse una foto con él. `</figDesc>`
@@ -27,6 +27,104 @@ A la salida del hotel de Ometepec, saludé y atendí peticiones de la gente. Vam
 `</interp>`
 `</tweetText>`
 `<source>` [https://twitter.com/lopezobrador_/status/1238866717595578369?s=19] `</source>`
+`</tweet>`
+
+
+
+
+
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Me la quería comer a besos, pero no puedo por la sana distancia. Es un primor. <a href="https://t.co/rmlfj9XA1e">pic.twitter.com/rmlfj9XA1e</a></p>&mdash; Andrés Manuel (@lopezobrador_) <a href="https://twitter.com/lopezobrador_/status/1241204697014448129?ref_src=twsrc%5Etfw">March 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+`<tweet id=“MV01”>`
+`<author>`
+`<name>` Andrés Manuel `</name>`
+`<screenName>` @lopezobrador_ `</screenName>`
+`</author>`
+`<tweetText>`
+`<lang type="ESP">`
+Me la quería comer a besos, pero no puedo por la sana distancia. Es un primor.
+`<figure>`
+`<figDesc>` Video del presidente escuchando y platicando con una niña que es cargada por un señor. Dertás hay un par de médicos. Están en la calle. `</figDesc>`
+`</figure>`
+`<creationDate>` 20/03/2020 `</creationDate>`
+`</lang>`
+`</interp>`
+`</tweetText>`
+`<source>` [https://twitter.com/lopezobrador_/status/1241204697014448129?s=19] `</source>`
+`</tweet>`
+
+
+
+
+
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Lamento informarles que estoy contagiado de COVID-19. Los síntomas son leves pero ya estoy en tratamiento médico. Como siempre, soy optimista. Saldremos adelante todos. Me representará la Dra. Olga Sánchez Cordero en las mañaneras para informar como lo hacemos todos los días.</p>&mdash; Andrés Manuel (@lopezobrador_) <a href="https://twitter.com/lopezobrador_/status/1353500519344578560?ref_src=twsrc%5Etfw">January 25, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+`<tweet id=“MV01”>`
+`<author>`
+`<name>` Andrés Manuel `</name>`
+`<screenName>` @lopezobrador_ `</screenName>`
+`</author>`
+`<tweetText>`
+`<lang type="ESP">`
+Lamento informarles que estoy contagiado de COVID-19. Los síntomas son leves pero ya estoy en tratamiento médico. Como siempre, soy optimista. Saldremos adelante todos. Me representará la Dra. Olga Sánchez Cordero en las mañaneras para informar como lo hacemos todos los días.
+`<creationDate>` 24/01/2021 `</creationDate>`
+`</lang>`
+`</interp>`
+`</tweetText>`
+`<source>` [https://twitter.com/lopezobrador_/status/1353500519344578560] `</source>`
+`</tweet>`
+
+
+
+
+
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Conversamos con el presidente Biden, fue amable y respetuoso. Tratamos asuntos relacionados con la migración, el <a href="https://twitter.com/hashtag/COVID19?src=hash&amp;ref_src=twsrc%5Etfw">#COVID19</a> y la cooperación para el desarrollo y el bienestar. Todo indica que serán buenas las relaciones por el bien de nuestros pueblos y naciones. <a href="https://t.co/QEVK4UgFuo">pic.twitter.com/QEVK4UgFuo</a></p>&mdash; Andrés Manuel (@lopezobrador_) <a href="https://twitter.com/lopezobrador_/status/1352777092832743425?ref_src=twsrc%5Etfw">January 23, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+`<tweet id=“MV01”>`
+`<author>`
+`<name>` Andrés Manuel `</name>`
+`<screenName>` @lopezobrador_ `</screenName>`
+`</author>`
+`<tweetText>`
+`<lang type="ESP">`
+Conversamos con el presidente Biden, fue amable y respetuoso. Tratamos asuntos relacionados con la migración, el #COVID19 y la cooperación para el desarrollo y el bienestar. Todo indica que serán buenas las relaciones por el bien de nuestros pueblos y naciones.
+`<figure>`
+`<figDesc>` Foto de 4 personas al rededor de una mesa redonda. Una mujer y tres hombres. Tienen papeles y botellas de agua sobre la mesa y hay una vitrina detrás. `</figDesc>`
+`</figure>`
+`<creationDate>` 22/01/2021 `</creationDate>`
+`</lang>`
+`</interp>`
+`</tweetText>`
+`<source>` [https://twitter.com/lopezobrador_/status/1352777092832743425] `</source>`
+`</tweet>`
+
+
+
+
+
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Avanzamos en la aplicación de la vacuna contra el <a href="https://twitter.com/hashtag/COVID19?src=hash&amp;ref_src=twsrc%5Etfw">#COVID19</a>. Es la esperanza más cercana para una mejor realidad. <a href="https://t.co/YJDqd7rBoJ">pic.twitter.com/YJDqd7rBoJ</a></p>&mdash; Andrés Manuel (@lopezobrador_) <a href="https://twitter.com/lopezobrador_/status/1343375224532832258?ref_src=twsrc%5Etfw">December 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+`<tweet id=“MV01”>`
+`<author>`
+`<name>` Andrés Manuel `</name>`
+`<screenName>` @lopezobrador_ `</screenName>`
+`</author>`
+`<tweetText>`
+`<lang type="ESP">`
+Avanzamos en la aplicación de la vacuna contra el #COVID19. Es la esperanza más cercana para una mejor realidad.
+`<figure>`
+`<figDesc>` Video del presidente hablando frente a un escritorio. Detrás hay un librero y a su derecha la bandera mexicana. `</figDesc>`
+`</figure>`
+`<creationDate>` 27/12/2020 `</creationDate>`
+`</lang>`
+`</interp>`
+`</tweetText>`
+`<source>` [https://twitter.com/lopezobrador_/status/1343375224532832258] `</source>`
+`</tweet>`
 
 ## *Estados Unidos*
   
