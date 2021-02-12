@@ -151,3 +151,28 @@ That is why we must once again stay at home, protect the NHS and save lives
 `<creationDate>`6 ene. 2021`</creationDate>`
 `<source>`[https://twitter.com/BorisJohnson/status/1346814187780124678](https://twitter.com/BorisJohnson/status/1346814187780124678)`</source>`
 `</tweet>`
+
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Clever girls wear masks and clever people wear masks 🦖😷 Wearing a mask is one way to take care of yourself, the ones you love, and all those around you! <a href="https://twitter.com/hashtag/wearamask?src=hash&amp;ref_src=twsrc%5Etfw">#wearamask</a> <a href="https://twitter.com/hashtag/besafe?src=hash&amp;ref_src=twsrc%5Etfw">#besafe</a> ♥️ <a href="https://t.co/YDpRoxw1Lk">pic.twitter.com/YDpRoxw1Lk</a></p>&mdash; Bryce Dallas Howard (@BryceDHoward) <a href="https://twitter.com/BryceDHoward/status/1278776988115714049?ref_src=twsrc%5Etfw">July 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
+`<tweet id="J7">`
+`<author>`
+`<name>`Bryce Dallas Howard`</name>`
+`<screenName>`BryceDHoward`</screenName>`
+`</author>`
+`<tweetText>`
+`<interp type="Actriz">`
+`<lang type="eng">`
+Clever girls wear masks and clever people wear masks 🦖
+😷Wearing a mask is one way to take care of yourself,
+the ones you love, and all those around you!
+`<figure>`
+ `<figDesc>`Selfie de Bryce con un cubrebocas`</figDesc>`
+`</figure>`
+`</lang>`
+`</interp>`
+`</tweetText>`
+`<creationDate>`2 jul. 2020`</creationDate>`
+`<source>`[https://twitter.com/BryceDHoward/status/1278776988115714049](https://twitter.com/BryceDHoward/status/1278776988115714049)`</source>`
+`</tweet>`
