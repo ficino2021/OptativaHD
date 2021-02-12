@@ -26,7 +26,7 @@ A la salida del hotel de Ometepec, saludé y atendí peticiones de la gente. Vam
 `</lang>`
 `</interp>`
 `</tweetText>`
-`<source>` [https://twitter.com/lopezobrador_/status/1238866717595578369?s=19] `</source>`
+`<source>` [https://twitter.com/lopezobrador_/status/1238866717595578369?s=19](https://twitter.com/lopezobrador_/status/1238866717595578369?s=19) `</source>`
 `</tweet>`
 
 
