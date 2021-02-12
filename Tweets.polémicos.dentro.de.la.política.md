@@ -536,6 +536,29 @@ The fact is systemic racism touches every facet of American life, and everyone �
 
 
 ## *Reino Unido*
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Congratulations to <a href="https://twitter.com/JoeBiden?ref_src=twsrc%5Etfw">@JoeBiden</a> on being sworn in as President of the United States and to <a href="https://twitter.com/KamalaHarris?ref_src=twsrc%5Etfw">@KamalaHarris</a> on her historic inauguration. America’s leadership is vital on the issues that matter to us all, from climate change to COVID, and I look forward to working with President Biden.</p>&mdash; Boris Johnson (@BorisJohnson) <a href="https://twitter.com/BorisJohnson/status/1351934951520923650?ref_src=twsrc%5Etfw">January 20, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
+`<tweet id=“MV01”>`
+`<author>`
+`<name>` Boris Johnson `</name>`
+`<screenName>` @BorisJohnson `</screenName>`
+`</author>`
+`<lang type="EN">`
+`<interp type="ReinoUnido">` 
+`<tweetText>`
+Congratulations to @JoeBiden on being sworn in as President of the United States and to @KamalaHarris  on her historic inauguration. America’s leadership is vital on the issues that matter to us all, from climate change to COVID, and I look forward to working with President Biden.
+`<creationDate>` 20/01/2021 `</creationDate>`
+`</lang>`
+`</interp>`
+`</tweetText>`
+`<source>` [https://twitter.com/BorisJohnson/status/1351934951520923650] `</source>`
+`</tweet>`
+
+
+
+
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">We have vaccinated over 5.8 million people in the UK, with a record 478,000 first doses given in a single day yesterday.<br><br>Every jab brings us closer to defeating the virus. If you’re called for the vaccine, please do come forward. <a href="https://t.co/BWO1cYcsfQ">pic.twitter.com/BWO1cYcsfQ</a></p>&mdash; Boris Johnson (@BorisJohnson) <a href="https://twitter.com/BorisJohnson/status/1353027314750263298?ref_src=twsrc%5Etfw">January 23, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -547,7 +570,7 @@ The fact is systemic racism touches every facet of American life, and everyone �
 `</author>`
 `<tweetText>`
 `<lang type="EN">`
-`<interp type="ReinoUnido">
+`<interp type="ReinoUnido">` 
 We have vaccinated over 5.8 million people in the UK, with a record 478,000 first doses given in a single day yesterday.
 Every jab brings us closer to defeating the virus. If you’re called for the vaccine, please do come forward.
 `<figure>`
@@ -573,7 +596,7 @@ Every jab brings us closer to defeating the virus. If you’re called for the va
 `<screenName>` @BorisJohnson `</screenName>`
 `</author>` 
 `<lang type="EN">`
-`<interp type="ReinoUnido"> 
+`<interp type="ReinoUnido">`
 `<figure>`
 `<figDesc>` Imágen de fondo negro que dice: 1 0 "I am sorry to have to tell you that today the number of deaths recorded from Covid in the UK has surpassed 100,000, and it is hard to compute the sorrow contained in that grim statistic. The years of life lost, the family gatherings not attended and, for so many relatives, the missed chance even say goodbye.
 "I offer my deepest condolences to everyone who has lost a loved one: fathers and mothers; brothers and sisters; sons and daughters; and the many grandparents who have been taken."
@@ -586,25 +609,3 @@ BORIS JHONSON PRIME MINISTER of the UNITED KINDOM
 `<source>` [https://twitter.com/BorisJohnson/status/1354147835369959435] `</source>`
 `</tweet>`
 
-
-
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Congratulations to <a href="https://twitter.com/JoeBiden?ref_src=twsrc%5Etfw">@JoeBiden</a> on being sworn in as President of the United States and to <a href="https://twitter.com/KamalaHarris?ref_src=twsrc%5Etfw">@KamalaHarris</a> on her historic inauguration. America’s leadership is vital on the issues that matter to us all, from climate change to COVID, and I look forward to working with President Biden.</p>&mdash; Boris Johnson (@BorisJohnson) <a href="https://twitter.com/BorisJohnson/status/1351934951520923650?ref_src=twsrc%5Etfw">January 20, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-
-`<tweet id=“MV01”>`
-`<author>`
-`<name>` Boris Johnson `</name>`
-`<screenName>` @BorisJohnson `</screenName>`
-`</author>`
-`<lang type="EN">`
-`<interp type="ReinoUnido"> 
-`<tweetText>`
-Congratulations to @JoeBiden on being sworn in as President of the United States and to @KamalaHarris  on her historic inauguration. America’s leadership is vital on the issues that matter to us all, from climate change to COVID, and I look forward to working with President Biden.
-`<creationDate>` 20/01/2021 `</creationDate>`
-`</lang>`
-`</interp>`
-`</tweetText>`
-`<source>` [https://twitter.com/BorisJohnson/status/1351934951520923650] `</source>`
-`</tweet>`
