@@ -60,50 +60,112 @@ Me la quería comer a besos, pero no puedo por la sana distancia. Es un primor.
 
 
 
-<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Lamento informarles que estoy contagiado de COVID-19. Los síntomas son leves pero ya estoy en tratamiento médico. Como siempre, soy optimista. Saldremos adelante todos. Me representará la Dra. Olga Sánchez Cordero en las mañaneras para informar como lo hacemos todos los días.</p>&mdash; Andrés Manuel (@lopezobrador_) <a href="https://twitter.com/lopezobrador_/status/1353500519344578560?ref_src=twsrc%5Etfw">January 25, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Taiwán tiene 25 millones de habitantes y han muerto sólo 7 personas por COVID. En Nueva Zelanda solo 25. Ambas economías están abiertas y los niños van a la escuela. <br>La diferencia es que, desde el principio, tomaron muy en serio la pandemia. En México el manejo ha sido criminal. <a href="https://t.co/xBc0KlMNTB">pic.twitter.com/xBc0KlMNTB</a></p>&mdash; RicardoAnayaC (@RicardoAnayaC) <a href="https://twitter.com/RicardoAnayaC/status/1333410501934669825?ref_src=twsrc%5Etfw">November 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 `<tweet id=“MV01”>`
 `<author>`
-`<name>` Andrés Manuel `</name>`
-`<screenName>` @lopezobrador_ `</screenName>`
+`<name>` RicardoAnayaC `</name>`
+`<screenName>` @RicardoAnayaC `</screenName>`
 `</author>`
 `<tweetText>`
 `<lang type="ESP">`
 `<interp type="Mexico">`
-Lamento informarles que estoy contagiado de COVID-19. Los síntomas son leves pero ya estoy en tratamiento médico. Como siempre, soy optimista. Saldremos adelante todos. Me representará la Dra. Olga Sánchez Cordero en las mañaneras para informar como lo hacemos todos los días.
-`<creationDate>` 24/01/2021 `</creationDate>`
-`</lang>`
-`</interp>`
-`</tweetText>`
-`<source>` [https://twitter.com/lopezobrador_/status/1353500519344578560] `</source>`
-`</tweet>`
-
-
-
-
-
-<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Conversamos con el presidente Biden, fue amable y respetuoso. Tratamos asuntos relacionados con la migración, el <a href="https://twitter.com/hashtag/COVID19?src=hash&amp;ref_src=twsrc%5Etfw">#COVID19</a> y la cooperación para el desarrollo y el bienestar. Todo indica que serán buenas las relaciones por el bien de nuestros pueblos y naciones. <a href="https://t.co/QEVK4UgFuo">pic.twitter.com/QEVK4UgFuo</a></p>&mdash; Andrés Manuel (@lopezobrador_) <a href="https://twitter.com/lopezobrador_/status/1352777092832743425?ref_src=twsrc%5Etfw">January 23, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-`<tweet id=“MV01”>`
-`<author>`
-`<name>` Andrés Manuel `</name>`
-`<screenName>` @lopezobrador_ `</screenName>`
-`</author>`
-`<tweetText>`
-`<lang type="ESP">`
-`<interp type="Mexico">`
-Conversamos con el presidente Biden, fue amable y respetuoso. Tratamos asuntos relacionados con la migración, el #COVID19 y la cooperación para el desarrollo y el bienestar. Todo indica que serán buenas las relaciones por el bien de nuestros pueblos y naciones.
+Taiwán tiene 25 millones de habitantes y han muerto sólo 7 personas por COVID. En Nueva Zelanda solo 25. Ambas economías están abiertas y los niños van a la escuela. 
+La diferencia es que, desde el principio, tomaron muy en serio la pandemia. En México el manejo ha sido criminal.
 `<figure>`
-`<figDesc>` Foto de 4 personas al rededor de una mesa redonda. Una mujer y tres hombres. Tienen papeles y botellas de agua sobre la mesa y hay una vitrina detrás. `</figDesc>`
+`<figDesc>` Video de una hombre hablando frente a la cámara y pasando una sucesión de imágenes respecto al tema. Hay subtitulos debajo. `</figDesc>`
 `</figure>`
-`<creationDate>` 22/01/2021 `</creationDate>`
+`<creationDate>` 30/11/2020 `</creationDate>`
 `</lang>`
 `</interp>`
 `</tweetText>`
-`<source>` [https://twitter.com/lopezobrador_/status/1352777092832743425] `</source>`
+`<source>` [https://twitter.com/RicardoAnayaC/status/1333410501934669825] `</source>`
 `</tweet>`
+
+
+
+
+
+
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">No hay mejor muestra de la responsabilidad del pueblo de México ante la pandemia, que esta imagen de la Basílica en el día dedicado a la Virgen de Guadalupe. Entre todos los símbolos, los mexicanos sitúan en primer lugar la veneración a la Virgen y en segundo el respeto a Juárez. <a href="https://t.co/ELf6psQe7V">pic.twitter.com/ELf6psQe7V</a></p>&mdash; Andrés Manuel (@lopezobrador_) <a href="https://twitter.com/lopezobrador_/status/1337829604174655488?ref_src=twsrc%5Etfw">December 12, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+`<tweet id=“MV01”>`
+`<author>`
+`<name>` Andrés Manuel `</name>`
+`<screenName>` @lopezobrador_ `</screenName>`
+`</author>`
+`<tweetText>`
+`<lang type="ESP">`
+`<interp type="Mexico">`
+No hay mejor muestra de la responsabilidad del pueblo de México ante la pandemia, que esta imagen de la Basílica en el día dedicado a la Virgen de Guadalupe. Entre todos los símbolos, los mexicanos sitúan en primer lugar la veneración a la Virgen y en segundo el respeto a Juárez.
+`<figure>`
+`<figDesc>` Una imágen desde el cielo de la Basílica de Guadalipe y otra vista desde una cámara de seguridad vista desde el nivel del suelo. `</figDesc>`
+`</figure>`
+`<creationDate>` 12/12/2020 `</creationDate>`
+`</lang>`
+`</interp>`
+`</tweetText>`
+`<source>` [https://twitter.com/lopezobrador_/status/1337829604174655488] `</source>`
+`</tweet>`
+
+
+
+
+
+
+
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Desde el histórico ayuntamiento de Valladolid, Yucatán, he conversado por teléfono con el presidente electo de Estados Unidos, Joseph Biden. Reafirmamos el compromiso de trabajar juntos por el bienestar de nuestros pueblos y naciones. <a href="https://t.co/SFAZR9H0NP">pic.twitter.com/SFAZR9H0NP</a></p>&mdash; Andrés Manuel (@lopezobrador_) <a href="https://twitter.com/lopezobrador_/status/1340448798775001088?ref_src=twsrc%5Etfw">December 20, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+`<tweet id=“MV01”>`
+`<author>`
+`<name>` Andrés Manuel `</name>`
+`<screenName>` @lopezobrador_ `</screenName>`
+`</author>`
+`<tweetText>`
+`<lang type="ESP">`
+`<interp type="Mexico">`
+Desde el histórico ayuntamiento de Valladolid, Yucatán, he conversado por teléfono con el presidente electo de Estados Unidos, Joseph Biden. Reafirmamos el compromiso de trabajar juntos por el bienestar de nuestros pueblos y naciones.
+`<figure>`
+`<figDesc>` Imágen de tres personas al rededor de una mesa. Una de las personas tiene puesto un cubrebocas. Los otros dos tienen papeles sobre la mesa. Detrás se encuentra un cuedro de un hombre de pie y a lado la bandera mexicana. `</figDesc>`
+`</figure>`
+`<creationDate>` 19/12/2020 `</creationDate>`
+`</lang>`
+`</interp>`
+`</tweetText>`
+`<source>` [https://twitter.com/lopezobrador_/status/1340448798775001088] `</source>`
+`</tweet>`
+
+
+
+
+
+
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Hoy, 24 de diciembre, inicia la vacunación contra <a href="https://twitter.com/hashtag/COVID19?src=hash&amp;ref_src=twsrc%5Etfw">#COVID19</a> en México y cambia el manejo de la epidemia con una luz de esperanza; ya tenemos un instrumento de protección efectivo. 1/2 <a href="https://t.co/nfQIxAHIRz">pic.twitter.com/nfQIxAHIRz</a></p>&mdash; Hugo López-Gatell Ramírez (@HLGatell) <a href="https://twitter.com/HLGatell/status/1342113138204942336?ref_src=twsrc%5Etfw">December 24, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+`<tweet id=“MV01”>`
+`<author>`
+`<name>` Hugo López-Gatell Ramírez `</name>`
+`<screenName>` @HLGatell `</screenName>`
+`</author>`
+`<tweetText>`
+`<lang type="ESP">`
+`<interp type="Mexico">`
+Hoy, 24 de diciembre, inicia la vacunación contra #COVID19 en México y cambia el manejo de la epidemia con una luz de esperanza; ya tenemos un instrumento de protección efectivo. 1/2
+`<figure>`
+`<figDesc>` Imágen con dos personas al frente; una sentada en una silla mientras otra le aplica una vacuna en el hombro. Detrás otras dos personas paradas en cada lado. `</figDesc>`
+`</figure>`
+`<creationDate>` 24/12/2020 `</creationDate>`
+`</lang>`
+`</interp>`
+`</tweetText>`
+`<source>` [https://twitter.com/HLGatell/status/1342113138204942336] `</source>`
+`</tweet>`
+
 
 
 
@@ -131,30 +193,6 @@ Avanzamos en la aplicación de la vacuna contra el #COVID19. Es la esperanza má
 `<source>` [https://twitter.com/lopezobrador_/status/1343375224532832258] `</source>`
 `</tweet>`
 
-
-
-
-<blockquote class="twitter-tweet"><p lang="es" dir="ltr">No hay mejor muestra de la responsabilidad del pueblo de México ante la pandemia, que esta imagen de la Basílica en el día dedicado a la Virgen de Guadalupe. Entre todos los símbolos, los mexicanos sitúan en primer lugar la veneración a la Virgen y en segundo el respeto a Juárez. <a href="https://t.co/ELf6psQe7V">pic.twitter.com/ELf6psQe7V</a></p>&mdash; Andrés Manuel (@lopezobrador_) <a href="https://twitter.com/lopezobrador_/status/1337829604174655488?ref_src=twsrc%5Etfw">December 12, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-`<tweet id=“MV01”>`
-`<author>`
-`<name>` Andrés Manuel `</name>`
-`<screenName>` @lopezobrador_ `</screenName>`
-`</author>`
-`<tweetText>`
-`<lang type="ESP">`
-`<interp type="Mexico">`
-No hay mejor muestra de la responsabilidad del pueblo de México ante la pandemia, que esta imagen de la Basílica en el día dedicado a la Virgen de Guadalupe. Entre todos los símbolos, los mexicanos sitúan en primer lugar la veneración a la Virgen y en segundo el respeto a Juárez.
-`<figure>`
-`<figDesc>` Una imágen desde el cielo de la Basílica de Guadalipe y otra vista desde una cámara de seguridad vista desde el nivel del suelo. `</figDesc>`
-`</figure>`
-`<creationDate>` 12/12/2020 `</creationDate>`
-`</lang>`
-`</interp>`
-`</tweetText>`
-`<source>` [https://twitter.com/lopezobrador_/status/1337829604174655488] `</source>`
-`</tweet>`
 
 
 
@@ -186,7 +224,10 @@ Nuestra familia les desea un feliz año 2021. Hoy, en homenaje a los fallecidos 
 
 
 
-<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Desde el histórico ayuntamiento de Valladolid, Yucatán, he conversado por teléfono con el presidente electo de Estados Unidos, Joseph Biden. Reafirmamos el compromiso de trabajar juntos por el bienestar de nuestros pueblos y naciones. <a href="https://t.co/SFAZR9H0NP">pic.twitter.com/SFAZR9H0NP</a></p>&mdash; Andrés Manuel (@lopezobrador_) <a href="https://twitter.com/lopezobrador_/status/1340448798775001088?ref_src=twsrc%5Etfw">December 20, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Conversamos con el presidente Biden, fue amable y respetuoso. Tratamos asuntos relacionados con la migración, el <a href="https://twitter.com/hashtag/COVID19?src=hash&amp;ref_src=twsrc%5Etfw">#COVID19</a> y la cooperación para el desarrollo y el bienestar. Todo indica que serán buenas las relaciones por el bien de nuestros pueblos y naciones. <a href="https://t.co/QEVK4UgFuo">pic.twitter.com/QEVK4UgFuo</a></p>&mdash; Andrés Manuel (@lopezobrador_) <a href="https://twitter.com/lopezobrador_/status/1352777092832743425?ref_src=twsrc%5Etfw">January 23, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 `<tweet id=“MV01”>`
@@ -197,15 +238,66 @@ Nuestra familia les desea un feliz año 2021. Hoy, en homenaje a los fallecidos 
 `<tweetText>`
 `<lang type="ESP">`
 `<interp type="Mexico">`
-Desde el histórico ayuntamiento de Valladolid, Yucatán, he conversado por teléfono con el presidente electo de Estados Unidos, Joseph Biden. Reafirmamos el compromiso de trabajar juntos por el bienestar de nuestros pueblos y naciones.
+Conversamos con el presidente Biden, fue amable y respetuoso. Tratamos asuntos relacionados con la migración, el #COVID19 y la cooperación para el desarrollo y el bienestar. Todo indica que serán buenas las relaciones por el bien de nuestros pueblos y naciones.
 `<figure>`
-`<figDesc>` Imágen de tres personas al rededor de una mesa. Una de las personas tiene puesto un cubrebocas. Los otros dos tienen papeles sobre la mesa. Detrás se encuentra un cuedro de un hombre de pie y a lado la bandera mexicana. `</figDesc>`
+`<figDesc>` Foto de 4 personas al rededor de una mesa redonda. Una mujer y tres hombres. Tienen papeles y botellas de agua sobre la mesa y hay una vitrina detrás. `</figDesc>`
 `</figure>`
-`<creationDate>` 19/12/2020 `</creationDate>`
+`<creationDate>` 22/01/2021 `</creationDate>`
 `</lang>`
 `</interp>`
 `</tweetText>`
-`<source>` [https://twitter.com/lopezobrador_/status/1340448798775001088] `</source>`
+`<source>` [https://twitter.com/lopezobrador_/status/1352777092832743425] `</source>`
+`</tweet>`
+
+
+
+
+
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Lamento informarles que estoy contagiado de COVID-19. Los síntomas son leves pero ya estoy en tratamiento médico. Como siempre, soy optimista. Saldremos adelante todos. Me representará la Dra. Olga Sánchez Cordero en las mañaneras para informar como lo hacemos todos los días.</p>&mdash; Andrés Manuel (@lopezobrador_) <a href="https://twitter.com/lopezobrador_/status/1353500519344578560?ref_src=twsrc%5Etfw">January 25, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+`<tweet id=“MV01”>`
+`<author>`
+`<name>` Andrés Manuel `</name>`
+`<screenName>` @lopezobrador_ `</screenName>`
+`</author>`
+`<tweetText>`
+`<lang type="ESP">`
+`<interp type="Mexico">`
+Lamento informarles que estoy contagiado de COVID-19. Los síntomas son leves pero ya estoy en tratamiento médico. Como siempre, soy optimista. Saldremos adelante todos. Me representará la Dra. Olga Sánchez Cordero en las mañaneras para informar como lo hacemos todos los días.
+`<creationDate>` 24/01/2021 `</creationDate>`
+`</lang>`
+`</interp>`
+`</tweetText>`
+`<source>` [https://twitter.com/lopezobrador_/status/1353500519344578560] `</source>`
+`</tweet>`
+
+
+
+
+
+
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Acompañamos al presidente <a href="https://twitter.com/lopezobrador_?ref_src=twsrc%5Etfw">@lopezobrador_</a> en la llamada con el presidente de Rusia, Vladimir Putin, quien respaldó el acuerdo de adquirir 24 millones de dosis, para 12 millones de personas, de la vacuna Sputnik V. Esto es resultado de la exitosa visita del 7 de enero a Argentina. <a href="https://t.co/9kdMnHod54">pic.twitter.com/9kdMnHod54</a></p>&mdash; Hugo López-Gatell Ramírez (@HLGatell) <a href="https://twitter.com/HLGatell/status/1353760262638211075?ref_src=twsrc%5Etfw">January 25, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
+`<tweet id=“MV01”>`
+`<author>`
+`<name>` Hugo López-Gatell Ramírez `</name>`
+`<screenName>` @HLGatell `</screenName>`
+`</author>`
+`<tweetText>`
+`<lang type="ESP">`
+`<interp type="Mexico">`
+Acompañamos al presidente @lopezobrador_  en la llamada con el presidente de Rusia, Vladimir Putin, quien respaldó el acuerdo de adquirir 24 millones de dosis, para 12 millones de personas, de la vacuna Sputnik V. Esto es resultado de la exitosa visita del 7 de enero a Argentina.
+`<figure>`
+`<figDesc>` Imágen una persona sentada frente a un escritorio de madera con una computadora sobre ella, está haciendo videollamada con otra persona. Detras del hombre hay una bandera mexicana y un telefono. `</figDesc>`
+`</figure>`
+`<creationDate>` 25/01/2021 `</creationDate>`
+`</lang>`
+`</interp>`
+`</tweetText>`
+`<source>` [https://twitter.com/HLGatell/status/1353760262638211075] `</source>`
 `</tweet>`
 
 
@@ -281,56 +373,6 @@ Menos necesitamos sus vacunas de mala calidad, no subestimen al pueblo.
 
 
 
-hilo
-
-<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Hoy, 24 de diciembre, inicia la vacunación contra <a href="https://twitter.com/hashtag/COVID19?src=hash&amp;ref_src=twsrc%5Etfw">#COVID19</a> en México y cambia el manejo de la epidemia con una luz de esperanza; ya tenemos un instrumento de protección efectivo. 1/2 <a href="https://t.co/nfQIxAHIRz">pic.twitter.com/nfQIxAHIRz</a></p>&mdash; Hugo López-Gatell Ramírez (@HLGatell) <a href="https://twitter.com/HLGatell/status/1342113138204942336?ref_src=twsrc%5Etfw">December 24, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-`<tweet id=“MV01”>`
-`<author>`
-`<name>` Hugo López-Gatell Ramírez `</name>`
-`<screenName>` @HLGatell `</screenName>`
-`</author>`
-`<tweetText>`
-`<lang type="ESP">`
-`<interp type="Mexico">`
-Hoy, 24 de diciembre, inicia la vacunación contra #COVID19 en México y cambia el manejo de la epidemia con una luz de esperanza; ya tenemos un instrumento de protección efectivo. 1/2
-`<figure>`
-`<figDesc>` Imágen con dos personas al frente; una sentada en una silla mientras otra le aplica una vacuna en el hombro. Detrás otras dos personas paradas en cada lado. `</figDesc>`
-`</figure>`
-`<creationDate>` 24/12/2020 `</creationDate>`
-`</lang>`
-`</interp>`
-`</tweetText>`
-`<source>` [https://twitter.com/HLGatell/status/1342113138204942336] `</source>`
-`</tweet>`
-
-
-
-
-<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Acompañamos al presidente <a href="https://twitter.com/lopezobrador_?ref_src=twsrc%5Etfw">@lopezobrador_</a> en la llamada con el presidente de Rusia, Vladimir Putin, quien respaldó el acuerdo de adquirir 24 millones de dosis, para 12 millones de personas, de la vacuna Sputnik V. Esto es resultado de la exitosa visita del 7 de enero a Argentina. <a href="https://t.co/9kdMnHod54">pic.twitter.com/9kdMnHod54</a></p>&mdash; Hugo López-Gatell Ramírez (@HLGatell) <a href="https://twitter.com/HLGatell/status/1353760262638211075?ref_src=twsrc%5Etfw">January 25, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-
-`<tweet id=“MV01”>`
-`<author>`
-`<name>` Hugo López-Gatell Ramírez `</name>`
-`<screenName>` @HLGatell `</screenName>`
-`</author>`
-`<tweetText>`
-`<lang type="ESP">`
-`<interp type="Mexico">`
-Acompañamos al presidente @lopezobrador_  en la llamada con el presidente de Rusia, Vladimir Putin, quien respaldó el acuerdo de adquirir 24 millones de dosis, para 12 millones de personas, de la vacuna Sputnik V. Esto es resultado de la exitosa visita del 7 de enero a Argentina.
-`<figure>`
-`<figDesc>` Imágen una persona sentada frente a un escritorio de madera con una computadora sobre ella, está haciendo videollamada con otra persona. Detras del hombre hay una bandera mexicana y un telefono. `</figDesc>`
-`</figure>`
-`<creationDate>` 25/01/2021 `</creationDate>`
-`</lang>`
-`</interp>`
-`</tweetText>`
-`<source>` [https://twitter.com/HLGatell/status/1353760262638211075] `</source>`
-`</tweet>`
-
 
 
 
@@ -359,29 +401,6 @@ La secretaria de Gobernación, @M_OlgaSCordero , aseguró que la consulta ciudad
 
 
 
-
-<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Taiwán tiene 25 millones de habitantes y han muerto sólo 7 personas por COVID. En Nueva Zelanda solo 25. Ambas economías están abiertas y los niños van a la escuela. <br>La diferencia es que, desde el principio, tomaron muy en serio la pandemia. En México el manejo ha sido criminal. <a href="https://t.co/xBc0KlMNTB">pic.twitter.com/xBc0KlMNTB</a></p>&mdash; RicardoAnayaC (@RicardoAnayaC) <a href="https://twitter.com/RicardoAnayaC/status/1333410501934669825?ref_src=twsrc%5Etfw">November 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-`<tweet id=“MV01”>`
-`<author>`
-`<name>` RicardoAnayaC `</name>`
-`<screenName>` @RicardoAnayaC `</screenName>`
-`</author>`
-`<tweetText>`
-`<lang type="ESP">`
-`<interp type="Mexico">`
-Taiwán tiene 25 millones de habitantes y han muerto sólo 7 personas por COVID. En Nueva Zelanda solo 25. Ambas economías están abiertas y los niños van a la escuela. 
-La diferencia es que, desde el principio, tomaron muy en serio la pandemia. En México el manejo ha sido criminal.
-`<figure>`
-`<figDesc>` Video de una hombre hablando frente a la cámara y pasando una sucesión de imágenes respecto al tema. Hay subtitulos debajo. `</figDesc>`
-`</figure>`
-`<creationDate>` 30/11/2020 `</creationDate>`
-`</lang>`
-`</interp>`
-`</tweetText>`
-`<source>` [https://twitter.com/RicardoAnayaC/status/1333410501934669825] `</source>`
-`</tweet>`
 
 
 
