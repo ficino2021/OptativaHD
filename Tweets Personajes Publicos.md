@@ -30,6 +30,9 @@ stay safe!
 `<source>`[https://twitter.com/itaparu99/status/1326130521290629120](https://twitter.com/itaparu99/status/1326130521290629120)`</source>`
 `</tweet>`
 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We can flatten the curve. We know how to do it - in fact, we’ve even done it before. We just need to do it again. Let’s fight this virus together by following public health rules and using the <a href="https://twitter.com/hashtag/COVIDAlert?src=hash&amp;ref_src=twsrc%5Etfw">#COVIDAlert</a> app. Get the app here: <a href="https://t.co/WDYMcc5UlR">https://t.co/WDYMcc5UlR</a> <a href="https://t.co/p4biBe09To">pic.twitter.com/p4biBe09To</a></p>&mdash; Justin Trudeau (@JustinTrudeau) <a href="https://twitter.com/JustinTrudeau/status/1333150551102664706?ref_src=twsrc%5Etfw">November 29, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
 `<tweet id="J2">`
 `<author>`
 `<name>`Justin Trudeau`</name>`
