@@ -21,7 +21,7 @@ title: Tweets personajes publicos
 `<lang type="eng">`
 stay safe!
 `<figure>`
- `<figDesc>`Dibujo tipo cartoon/anime de un lobo con cubrebocas`</figDesc>`
+ `<figDesc>`Legoshi con cubrebocas`</figDesc>`
 `</figure>`
 `</lang type="eng">`
 `</interp>`
