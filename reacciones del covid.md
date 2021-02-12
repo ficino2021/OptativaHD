@@ -2,7 +2,8 @@
 layout: page
 title: reacciones al covid 
 ---
-# alegres   
+# alegria / sadisfaccion 
+
 <blockquote class="twitter-tweet"><p lang="es" dir="ltr">Ella es mi abuela , tiene 95 años , se encontraba en la residencial la cual todos tenían coronavirus , fue diagnosticada con covid hace 1 mes , jamás tuvo síntomas hace un par de días le hicieron el segundo hisopado y dio negativo!! Es una leona. <a href="https://t.co/wb4DD49pBz">pic.twitter.com/wb4DD49pBz</a></p>&mdash; Matias Castro (@matiaascaastro) <a href="https://twitter.com/matiaascaastro/status/1349214025184391168?ref_src=twsrc%5Etfw">January 13, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 `<tweet id=“MV01”>`
@@ -86,19 +87,21 @@ Weno después de los peores 21 días que me han tocado vivir. Mi papá logró sa
 
 <blockquote class="twitter-tweet"><p lang="es" dir="ltr">ya le pusieron la vacuna del covix a mi amorcito, ya estoy feliz</p>&mdash; salvatore (@ronaldofonsi) <a href="https://twitter.com/ronaldofonsi/status/1352672796611112962?ref_src=twsrc%5Etfw">January 22, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-tweet id=“MV05”>'
-author>'
-name>Salvatore</name>'
-screenName>@ronaldofonsi</screenName>'
-tweetText>' 
-interp type="Alegres">'
-lang type="ESP">'
-ya le pusieron la vacuna del covix a mi amorcito, ya estoy feliz'
-creationDate>22/01/2021</creationDate>'
-/interp>'
-/lang type="ESP">'
-/tweetText>'
-source>https://twitter.com/ronaldofonsi/status/1352672796611112962?s=20</soucer>'
-/tweet>' 
+`<tweet id=“MV05”>` 
+`<author>`
+`<name>` Salvatore `</name>`
+`<screenName>` @ronaldofonsi `</screenName>`
+`<tweetText>` 
+`<interp type="Alegres">`
+`<lang type="ESP">`
+ya le pusieron la vacuna del covix a mi amorcito, ya estoy feliz
+`<creationDate>` 22/01/2021 `</creationDate>`
+`</interp>`
+`</lang>`
+`</tweetText>`
+`<source>` [https://twitter.com/ronaldofonsi/status/1352672796611112962?s=20](https://twitter.com/ronaldofonsi/status/1352672796611112962?s=20)`</soucer>` 
+`</tweet>`  
 
+
+# molestia / inconformidad 
 
