@@ -176,3 +176,26 @@ the ones you love, and all those around you!
 `<creationDate>`2 jul. 2020`</creationDate>`
 `<source>`[https://twitter.com/BryceDHoward/status/1278776988115714049](https://twitter.com/BryceDHoward/status/1278776988115714049)`</source>`
 `</tweet>`
+
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This first time poll worker helped 125 people vote before lunch. <a href="https://twitter.com/hashtag/MaskUpAndVote?src=hash&amp;ref_src=twsrc%5Etfw">#MaskUpAndVote</a> <a href="https://t.co/apGtlzghS6">pic.twitter.com/apGtlzghS6</a></p>&mdash; Rahul Tendulkar (@RTendulkarMD) <a href="https://twitter.com/RTendulkarMD/status/1323677397531676672?ref_src=twsrc%5Etfw">November 3, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
+`<tweet id="J8">`
+`<author>`
+`<name>`Rahul Tendulkar`</name>`
+`<screenName>`@RTendulkarMD`</screenName>`
+`</author>`
+`</tweetText>`
+`<interp type="Medico">`
+`<lang type="eng">`
+This first time poll worker helped 125 people vote before lunch. #MaskUpAndVote
+`<figure>`
+ `<figDesc>`Foto de Rahul con mascarrilla y careta`</figDesc>`
+`</figure>`
+`</lang>`
+`</interp>`
+`</tweetText>`
+`<creationDate>`3 nov. 2020`</creationDate>`
+`<source>[`https://twitter.com/RTendulkarMD/status/1323677397531676672](https://twitter.com/RTendulkarMD/status/1323677397531676672)`</source>`
+`</tweet>`
