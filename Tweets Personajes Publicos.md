@@ -126,3 +126,28 @@ Frente de Pueblos en Defensa de la Tierra de Atenco.
 `<creationDate>`31 dec. 2020`</creationDate>`
 `<source>`[https://twitter.com/lopezobrador_/status/1344780378158948352](https://twitter.com/lopezobrador_/status/1344780378158948352)`</source>`
 `</tweet>`
+
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We are in a race to vaccinate the vulnerable faster than the virus can reach them.<br><br>And we need to give our army of vaccinators the biggest head start we possibly can.<br><br>That is why we must once again stay at home, protect the NHS and save lives. <a href="https://t.co/lR6tAvNZgR">pic.twitter.com/lR6tAvNZgR</a></p>&mdash; Boris Johnson (@BorisJohnson) <a href="https://twitter.com/BorisJohnson/status/1346814187780124678?ref_src=twsrc%5Etfw">January 6, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
+`<tweet id="J6">`
+`<author>`
+`<name>`Boris Johnson`</name>`
+`<screenName>`@BorisJohnson`</screenName>`
+`</author>`
+`<tweetText>`
+`<interp type="Figura Politica">`
+`<lang type="eng">`
+We are in a race to vaccinate the vulnerable faster than the virus can reach them.
+And we need to give our army of vaccinators the biggest head start we possibly can.
+That is why we must once again stay at home, protect the NHS and save lives
+`<figure>`
+ `<figDesc>`Video del Primer ministro de Reino Unido dando un dicurso motivador e informativo`</figDesc>`
+`</figure>`
+`</lang>`
+`</interp>`
+`</tweetText>`
+`<creationDate>`6 ene. 2021`</creationDate>`
+`<source>`[https://twitter.com/BorisJohnson/status/1346814187780124678](https://twitter.com/BorisJohnson/status/1346814187780124678)`</source>`
+`</tweet>`
