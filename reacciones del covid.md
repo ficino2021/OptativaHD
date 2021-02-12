@@ -105,3 +105,94 @@ ya le pusieron la vacuna del covix a mi amorcito, ya estoy feliz
 
 # molestia / inconformidad 
 
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Un virus que rompe todas los reglas, infecta murciélagos, pangolines visones, tigres y ahora gorilas. <a href="https://twitter.com/hashtag/COVID19?src=hash&amp;ref_src=twsrc%5Etfw">#COVID19</a> es sin duda el mayor reto a la ciencia. Con tantos reservorios no habrá manera de eliminarlo, tendremos que aprender a vivir con él.</p>&mdash; Dr Francisco Moreno Sánchez (@DrPacoMoreno1) <a href="https://twitter.com/DrPacoMoreno1/status/1349195675326668801?ref_src=twsrc%5Etfw">January 13, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+`<tweet id=“MV06”>`
+`<author>`
+`<name>`Dr Francisco Moreno sanchez `</name>`
+`<screenName>` @DrPacoMoreno1 `</screenName>`
+`</author>`
+`<tweetText>`
+`<interp type="molestia">`
+`<lang type="ESP">`
+ Un virus que rompe todas los reglas, infecta murciélagos, pangolines visones, tigres y ahora gorilas.  #COVID19 es sin duda el mayor reto a la ciencia. Con tantos reservorios no habrá manera de eliminarlo, tendremos que aprender a vivir con él.
+`<creationDate>` 12/01/2021 `</creationDate>`
+`</lang>`
+`</interp>`
+`</tweetText>`
+`<source>` [https://twitter.com/DrPacoMoreno1/status/1349195675326668801?s=19](https://twitter.com/DrPacoMoreno1/status/1349195675326668801?s=19) `</source>`
+`</tweet>`
+
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Banda me cagan la gente, chavos que les vale madre el COVID, después cuando su familia esta contagiada se lamenta, como diría un amigo <a href="https://twitter.com/hashtag/Covidiotas?src=hash&amp;ref_src=twsrc%5Etfw">#Covidiotas</a> denle RT.</p>&mdash; 🄴🄻🄸🅂🄴🄾 #29 ⚽⚽⚫🏆🏅 (@29Eliseomorales) <a href="https://twitter.com/29Eliseomorales/status/1352299293248548867?ref_src=twsrc%5Etfw">January 21, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+`<tweet id=“MV07”>`
+`<author>`
+`<name>` ELISTEO `</name>`
+`<screenName>` @29Elisteomorales `</screenName>`
+`</author>`
+`<tweetText>`
+`<interp type="molestia">`
+`<lang type="ESP">`
+ Banda me cagan la gente, chavos que les vale madre el COVID, después cuando su familia esta contagiada se lamenta, como diría un amigo #Covidiotas denle RT.
+`<creationDate>` 21/01/2021 `</creationDate>`
+`</lang>`
+`</interp>`
+`</tweetText>`
+`<source>` [https://twitter.com/29Eliseomorales/status/1352299293248548867?s=20](https://twitter.com/29Eliseomorales/status/1352299293248548867?s=20) `</source>`
+`</tweet>`
+
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Me da mucha pena ajena ver a los internos, pasantes o médicos que obtuvieron la vacuna y andan en la peda como si nada pasara.. <br><br>Hay más gente que se la merece. <a href="https://twitter.com/hashtag/GrowUp?src=hash&amp;ref_src=twsrc%5Etfw">#GrowUp</a> <a href="https://twitter.com/hashtag/Covid_19?src=hash&amp;ref_src=twsrc%5Etfw">#Covid_19</a> <a href="https://twitter.com/hashtag/Covidiotas?src=hash&amp;ref_src=twsrc%5Etfw">#Covidiotas</a></p>&mdash; Palomo Santibañez (@epsantibanez1) <a href="https://twitter.com/epsantibanez1/status/1353925856218017794?ref_src=twsrc%5Etfw">January 26, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+`<tweet id=“MV08”>`
+`<author>`
+`<name>` Palomo Santibañez `</name>`
+`<screenName>` @epsantibanez1 `</screenName>`
+`</author>`
+`<tweetText>`
+`<interp type="molestia">`
+`<lang type="ESP">`
+ Me da mucha pena ajena ver a los internos, pasantes o médicos que obtuvieron la vacuna y andan en la peda como si nada pasara.. 
+Hay más gente que se la merece. 
+#GrowUp #Covid_19  #Covidiotas
+`<creationDate>` 25/01/2021 `</creationDate>`
+`</lang>`
+`</interp>`
+`</tweetText>`
+`<source>` [https://twitter.com/epsantibanez1/status/1353925856218017794?s=20](https://twitter.com/epsantibanez1/status/1353925856218017794?s=20)`</source>`
+`</tweet>`
+
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Les apuesto que se pondrán de moda las pruebas <a href="https://twitter.com/hashtag/COVID19?src=hash&amp;ref_src=twsrc%5Etfw">#COVID19</a> NEGATIVAS, a la carta.<br><br>Así de <a href="https://twitter.com/hashtag/covidiotas?src=hash&amp;ref_src=twsrc%5Etfw">#covidiotas</a> son.</p>&mdash; 🦇 power (медведь) (@Sr_Sereno) <a href="https://twitter.com/Sr_Sereno/status/1354291286476525571?ref_src=twsrc%5Etfw">January 27, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+`<tweet id=“MV09”>`
+`<author>`
+`<name>` power (медведь)  `</name>`
+`<screenName>` @Sr_Sereno `</screenName>`
+`</author>`
+`<tweetText>`
+`<interp type="molestia">`
+`<lang type="ESP">`
+ Les apuesto que se pondrán de moda las pruebas #COVID19 NEGATIVAS, a la carta.
+Así de #covidiotas son.
+`<creationDate>` 26/01/2021 `</creationDate>`
+`</lang>`
+`</interp>`
+`</tweetText>`
+`<source>` [https://twitter.com/Sr_Sereno/status/1354291286476525571?s=20](https://twitter.com/Sr_Sereno/status/1354291286476525571?s=20) `</source>`
+`</tweet>`
+
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">No los leo criticando a la gente que está protestando en Holanda en contra del confinamiento y el toque de queda ¿A ellos no les dirán que son unos <a href="https://twitter.com/hashtag/Covidiotas?src=hash&amp;ref_src=twsrc%5Etfw">#Covidiotas</a> ignorantes o qué? Pinches doble moralistas.<a href="https://twitter.com/hashtag/MexicoSeHunde?src=hash&amp;ref_src=twsrc%5Etfw">#MexicoSeHunde</a></p>&mdash; PainKiller (@p41nkiller) <a href="https://twitter.com/p41nkiller/status/1354281007768342529?ref_src=twsrc%5Etfw">January 27, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+`<tweet id=“MV10”>`
+`<author>`
+`<name>` PainKiller `</name>`
+`<screenName>` @p41nkiller `</screenName>`
+`</author>`
+`<tweetText>`
+`<interp type="molestia">`
+`<lang type="ESP">`
+ No los leo criticando a la gente que está protestando en Holanda en contra del confinamiento y el toque de queda ¿A ellos no les dirán que son unos #Covidiotas ignorantes o qué? Pinches doble moralistas.#MexicoSeHunde
+`<creationDate>` 26/01/2021 `</creationDate>`
+`</lang>`
+`</interp>`
+`</tweetText>`
+`<source>` [https://twitter.com/p41nkiller/status/1354281007768342529?s=20](https://twitter.com/p41nkiller/status/1354281007768342529?s=20) `</source>`
+`</tweet>`
+
+
+# comicos 
+
