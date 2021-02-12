@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Public
+title: Tweets personajes publicos
 ---
 
 
-#Recopilacion 
+# **El pensar entre nuestros lideres de opinión**
+
+## **
