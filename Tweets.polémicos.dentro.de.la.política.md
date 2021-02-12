@@ -426,7 +426,7 @@ You had Jeffrey Epstein killed to cover up your history of child trafficking and
 `</lang>`
 `</interp>`
 `</tweetText>`
-`<source>` [https://twitter.com/YourAnonCentral/status/1266993717207904256] `</source>`
+`<source>` [https://twitter.com/YourAnonCentral/status/1266993717207904256](https://twitter.com/YourAnonCentral/status/1266993717207904256) `</source>`
 `</tweet>`
   
   
@@ -449,7 +449,7 @@ It’s a new day in America.
 `</lang>`
 `</interp>`
 `</tweetText>`
-`<source>` [https://twitter.com/JoeBiden/status/1351897267666608129] `</source>`
+`<source>` [https://twitter.com/JoeBiden/status/1351897267666608129](https://twitter.com/JoeBiden/status/1351897267666608129) `</source>`
 `</tweet>`
   
   
@@ -475,12 +475,13 @@ For the people—always.
 `</lang>`
 `</interp>`
 `</tweetText>`
-`<source>` [https://twitter.com/KamalaHarris/status/1351927707899211776] `</source>`
+`<source>` [https://twitter.com/KamalaHarris/status/1351927707899211776](https://twitter.com/KamalaHarris/status/1351927707899211776) `</source>`
   `</tweet>`
   
   
   
-Link/video
+
+
   
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Tune in for the first press briefing of the Biden-Harris Administration with Press Secretary Jen Psaki. <a href="https://t.co/psa19eCLQa">https://t.co/psa19eCLQa</a></p>&mdash; The White House (@WhiteHouse) <a href="https://twitter.com/WhiteHouse/status/1352042814972985345?ref_src=twsrc%5Etfw">January 20, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
   
@@ -499,13 +500,13 @@ Tune in for the first press briefing of the Biden-Harris Administration with Pre
 `</lang>`
 `</interp>`
 `</tweetText>`
-`<source>` [https://twitter.com/WhiteHouse/status/1352042814972985345] `</source>`
+`<source>` [https://twitter.com/WhiteHouse/status/1352042814972985345](https://twitter.com/WhiteHouse/status/1352042814972985345) `</source>`
 `</tweet>`
   
   
   
   
-retweet
+
   
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Today was a good day.<br><br>And it was only possible because of you. Because you made calls. Because you marched. Because you wore your masks and voted like never before.<br><br>For four years, you defended our democracy with everything you had—and now, our country can enter a new day. <a href="https://t.co/JicHOQCIxt">https://t.co/JicHOQCIxt</a></p>&mdash; Barack Obama (@BarackObama) <a href="https://twitter.com/BarackObama/status/1352092714599391233?ref_src=twsrc%5Etfw">January 21, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
   
@@ -526,7 +527,7 @@ For four years, you defended our democracy with everything you had—and now, ou
 `</lang>`
 `</interp>`
 `</tweetText>`
-`<source>` [https://twitter.com/BarackObama/status/1352092714599391233] `</source>`
+`<source>` [https://twitter.com/BarackObama/status/1352092714599391233](https://twitter.com/BarackObama/status/1352092714599391233) `</source>`
 `</tweet>`
   
     
@@ -549,7 +550,7 @@ The fact is systemic racism touches every facet of American life, and everyone �
 `</lang>`
 `</interp>`
 `</tweetText>`
-`<source>` [https://twitter.com/POTUS/status/1354221331605319681] `</source>`
+`<source>` [https://twitter.com/POTUS/status/1354221331605319681](https://twitter.com/POTUS/status/1354221331605319681) `</source>`
 `</tweet>`
 
 
@@ -572,7 +573,7 @@ Congratulations to @JoeBiden on being sworn in as President of the United States
 `</lang>`
 `</interp>`
 `</tweetText>`
-`<source>` [https://twitter.com/BorisJohnson/status/1351934951520923650] `</source>`
+`<source>` [https://twitter.com/BorisJohnson/status/1351934951520923650](https://twitter.com/BorisJohnson/status/1351934951520923650) `</source>`
 `</tweet>`
 
 
@@ -599,7 +600,7 @@ Every jab brings us closer to defeating the virus. If you’re called for the va
 `</lang>`
 `</interp>`
 `</tweetText>`
-`<source>` [https://twitter.com/BorisJohnson/status/1353027314750263298] `</source>`
+`<source>` [https://twitter.com/BorisJohnson/status/1353027314750263298](https://twitter.com/BorisJohnson/status/1353027314750263298) `</source>`
 `</tweet>`
 
 
@@ -625,6 +626,6 @@ BORIS JHONSON PRIME MINISTER of the UNITED KINDOM
 `<creationDate>` 26/01/2021 `</creationDate>`
 `</lang>`
 `</interp>`
-`<source>` [https://twitter.com/BorisJohnson/status/1354147835369959435] `</source>`
+`<source>` [https://twitter.com/BorisJohnson/status/1354147835369959435](https://twitter.com/BorisJohnson/status/1354147835369959435) `</source>`
 `</tweet>`
 
