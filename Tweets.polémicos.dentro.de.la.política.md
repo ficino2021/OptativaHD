@@ -400,6 +400,7 @@ Hilo
 `</author>`
 `<tweetText>`
 `<lang type="EN">`
+`<interp type="EstadosUnidos">`
 You had Jeffrey Epstein killed to cover up your history of child trafficking and rape. We've have the recipts here: `<link>` https://twitter.com/OpDeathEaters/status/1098981197198159872 `</link>` 
 `<link>`  https://twitter.com/realDonaldTrump/status/1266760009872007171 `</link>` 
 `<creationDate>` 31/05/2020 `</creationDate>`
@@ -423,6 +424,7 @@ You had Jeffrey Epstein killed to cover up your history of child trafficking and
 `</author>`
 `<tweetText>`
 `<lang type="EN">`
+`<interp type="EstadosUnidos">`
 It’s a new day in America.
 `<creationDate>` 20/01/2021 `</creationDate>`
 `</lang>`
@@ -445,6 +447,7 @@ It’s a new day in America.
 `</author>`
 `<tweetText>`
 `<lang type="EN">`
+`<interp type="EstadosUnidos">`
 For the people—always.
 `<figure>`
 `<figDesc>` Foto de una mujer con traje y cubrebocas, detrás está un poster con el nombre de Harris Biden y la bandera estadounidense `</figDesc>`
@@ -470,6 +473,7 @@ Link/video
 `</author>`
 `<tweetText>`
 `<lang type="EN">`
+`<interp type="EstadosUnidos">`
 Tune in for the first press briefing of the Biden-Harris Administration with Press Secretary Jen Psaki.
 `<link>` https://www.pscp.tv/w/1gqGvoBoRenJB `</link>` 
 `<creationDate>` 20/01/2021 `</creationDate>`
@@ -494,6 +498,7 @@ retweet
 `</author>`
 `<tweetText>`
 `<lang type="EN">`
+`<interp type="EstadosUnidos">`
 Today was a good day.
 And it was only possible because of you. Because you made calls. Because you marched. Because you wore your masks and voted like never before.
 For four years, you defended our democracy with everything you had—and now, our country can enter a new day.
@@ -519,6 +524,7 @@ For four years, you defended our democracy with everything you had—and now, ou
 `</author>`
 `<tweetText>`
 `<lang type="EN">`
+`<interp type="EstadosUnidos">`
 The fact is systemic racism touches every facet of American life, and everyone — no matter your race or ethnicity — benefits when we build a more equitable America.
 `<creationDate>` 26/01/2021 `</creationDate>`
 `</lang>`
@@ -540,6 +546,8 @@ The fact is systemic racism touches every facet of American life, and everyone �
 `<screenName>` @BorisJohnson `</screenName>`
 `</author>`
 `<tweetText>`
+`<lang type="EN">`
+`<interp type="ReinoUnido">
 We have vaccinated over 5.8 million people in the UK, with a record 478,000 first doses given in a single day yesterday.
 Every jab brings us closer to defeating the virus. If you’re called for the vaccine, please do come forward.
 `<figure>`
@@ -563,7 +571,9 @@ Every jab brings us closer to defeating the virus. If you’re called for the va
 `<author>`
 `<name>` Boris Johnson `</name>`
 `<screenName>` @BorisJohnson `</screenName>`
-`</author>`
+`</author>` 
+`<lang type="EN">`
+`<interp type="ReinoUnido"> 
 `<figure>`
 `<figDesc>` Imágen de fondo negro que dice: 1 0 "I am sorry to have to tell you that today the number of deaths recorded from Covid in the UK has surpassed 100,000, and it is hard to compute the sorrow contained in that grim statistic. The years of life lost, the family gatherings not attended and, for so many relatives, the missed chance even say goodbye.
 "I offer my deepest condolences to everyone who has lost a loved one: fathers and mothers; brothers and sisters; sons and daughters; and the many grandparents who have been taken."
@@ -588,6 +598,8 @@ BORIS JHONSON PRIME MINISTER of the UNITED KINDOM
 `<name>` Boris Johnson `</name>`
 `<screenName>` @BorisJohnson `</screenName>`
 `</author>`
+`<lang type="EN">`
+`<interp type="ReinoUnido"> 
 `<tweetText>`
 Congratulations to @JoeBiden on being sworn in as President of the United States and to @KamalaHarris  on her historic inauguration. America’s leadership is vital on the issues that matter to us all, from climate change to COVID, and I look forward to working with President Biden.
 `<creationDate>` 20/01/2021 `</creationDate>`
