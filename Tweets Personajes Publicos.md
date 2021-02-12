@@ -101,3 +101,28 @@ We’ll get our lives back. Life is going to return to normal. I promise.
 `<creationDate>`25 nov. 2020`</creationDate>`
 `<source>`[https://twitter.com/JoeBiden/status/1331761084873789440](https://twitter.com/JoeBiden/status/1331761084873789440)`</source>`
 `</tweet>`
+
+
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Nuestra familia les desea un feliz año 2021. Hoy, en homenaje a los fallecidos por <a href="https://twitter.com/hashtag/COVID19?src=hash&amp;ref_src=twsrc%5Etfw">#COVID19</a>, sembramos en el jardín de Palacio Nacional un ahuehuete que hace unos días me regalaron dirigentes del Frente de Pueblos en Defensa de la Tierra de Atenco. <a href="https://t.co/U1lW04YpQu">pic.twitter.com/U1lW04YpQu</a></p>&mdash; Andrés Manuel (@lopezobrador_) <a href="https://twitter.com/lopezobrador_/status/1344780378158948352?ref_src=twsrc%5Etfw">December 31, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
+`<tweet id="J5>"`
+`<author>`
+`<name>`Andres Manuel`</name>`
+`<screenName>`@lopezobrador_`</screenName>`
+`</author>`
+`<tweetText>`
+`<interp type="Figura Politica">`
+`<lang type="esp">`
+Nuestra familia les desea un feliz año 2021. Hoy, en homenaje a los fallecidos por #COVID19,
+sembramos en el jardín de Palacio Nacional un ahuehuete que hace unos días me regalaron dirigentes del
+Frente de Pueblos en Defensa de la Tierra de Atenco.
+`<figure>`
+ `<figDesc>`Video del presidente de Mexico y la Primera dama plantando un arbol`</figDesc>`
+`</figure>`
+`</lang>`
+`</interp>`
+`</tweetText>`
+`<creationDate>`31 dec. 2020`</creationDate>`
+`<source>`[https://twitter.com/lopezobrador_/status/1344780378158948352](https://twitter.com/lopezobrador_/status/1344780378158948352)`</source>`
+`</tweet>`
