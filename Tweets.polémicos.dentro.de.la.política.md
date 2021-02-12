@@ -18,6 +18,7 @@ title: Tweets polémicos dentro de la política
 `</author>`
 `<tweetText>`
 `<lang type="ESP">`
+`<interp type="Mexico">`
 A la salida del hotel de Ometepec, saludé y atendí peticiones de la gente. Vamos a Xochistlahuaca.
 `<figure>`
 `<figDesc>` Video del presidente rodeado de personas amontonandose para tomarse una foto con él. `</figDesc>`
@@ -43,6 +44,7 @@ A la salida del hotel de Ometepec, saludé y atendí peticiones de la gente. Vam
 `</author>`
 `<tweetText>`
 `<lang type="ESP">`
+`<interp type="Mexico">`
 Me la quería comer a besos, pero no puedo por la sana distancia. Es un primor.
 `<figure>`
 `<figDesc>` Video del presidente escuchando y platicando con una niña que es cargada por un señor. Dertás hay un par de médicos. Están en la calle. `</figDesc>`
@@ -68,6 +70,7 @@ Me la quería comer a besos, pero no puedo por la sana distancia. Es un primor.
 `</author>`
 `<tweetText>`
 `<lang type="ESP">`
+`<interp type="Mexico">`
 Lamento informarles que estoy contagiado de COVID-19. Los síntomas son leves pero ya estoy en tratamiento médico. Como siempre, soy optimista. Saldremos adelante todos. Me representará la Dra. Olga Sánchez Cordero en las mañaneras para informar como lo hacemos todos los días.
 `<creationDate>` 24/01/2021 `</creationDate>`
 `</lang>`
@@ -90,6 +93,7 @@ Lamento informarles que estoy contagiado de COVID-19. Los síntomas son leves pe
 `</author>`
 `<tweetText>`
 `<lang type="ESP">`
+`<interp type="Mexico">`
 Conversamos con el presidente Biden, fue amable y respetuoso. Tratamos asuntos relacionados con la migración, el #COVID19 y la cooperación para el desarrollo y el bienestar. Todo indica que serán buenas las relaciones por el bien de nuestros pueblos y naciones.
 `<figure>`
 `<figDesc>` Foto de 4 personas al rededor de una mesa redonda. Una mujer y tres hombres. Tienen papeles y botellas de agua sobre la mesa y hay una vitrina detrás. `</figDesc>`
@@ -115,6 +119,7 @@ Conversamos con el presidente Biden, fue amable y respetuoso. Tratamos asuntos r
 `</author>`
 `<tweetText>`
 `<lang type="ESP">`
+`<interp type="Mexico">`
 Avanzamos en la aplicación de la vacuna contra el #COVID19. Es la esperanza más cercana para una mejor realidad.
 `<figure>`
 `<figDesc>` Video del presidente hablando frente a un escritorio. Detrás hay un librero y a su derecha la bandera mexicana. `</figDesc>`
@@ -139,6 +144,7 @@ Avanzamos en la aplicación de la vacuna contra el #COVID19. Es la esperanza má
 `</author>`
 `<tweetText>`
 `<lang type="ESP">`
+`<interp type="Mexico">`
 No hay mejor muestra de la responsabilidad del pueblo de México ante la pandemia, que esta imagen de la Basílica en el día dedicado a la Virgen de Guadalupe. Entre todos los símbolos, los mexicanos sitúan en primer lugar la veneración a la Virgen y en segundo el respeto a Juárez.
 `<figure>`
 `<figDesc>` Una imágen desde el cielo de la Basílica de Guadalipe y otra vista desde una cámara de seguridad vista desde el nivel del suelo. `</figDesc>`
@@ -164,6 +170,7 @@ No hay mejor muestra de la responsabilidad del pueblo de México ante la pandemi
 `</author>`
 `<tweetText>`
 `<lang type="ESP">`
+`<interp type="Mexico">`
 Nuestra familia les desea un feliz año 2021. Hoy, en homenaje a los fallecidos por #COVID19, sembramos en el jardín de Palacio Nacional un ahuehuete que hace unos días me regalaron dirigentes del Frente de Pueblos en Defensa de la Tierra de Atenco.
 `<figure>`
 `<figDesc>` Video del presidente junto a su esposa en el jardín del Palacio Nacional. El presidente sostiene una pala mientras habla frente a la cámara. La primera dama está parada a su lado. `</figDesc>`
@@ -189,6 +196,7 @@ Nuestra familia les desea un feliz año 2021. Hoy, en homenaje a los fallecidos 
 `</author>`
 `<tweetText>`
 `<lang type="ESP">`
+`<interp type="Mexico">`
 Desde el histórico ayuntamiento de Valladolid, Yucatán, he conversado por teléfono con el presidente electo de Estados Unidos, Joseph Biden. Reafirmamos el compromiso de trabajar juntos por el bienestar de nuestros pueblos y naciones.
 `<figure>`
 `<figDesc>` Imágen de tres personas al rededor de una mesa. Una de las personas tiene puesto un cubrebocas. Los otros dos tienen papeles sobre la mesa. Detrás se encuentra un cuedro de un hombre de pie y a lado la bandera mexicana. `</figDesc>`
@@ -214,6 +222,7 @@ Desde el histórico ayuntamiento de Valladolid, Yucatán, he conversado por tel�
 `</author>`
 `<tweetText>`
 `<lang type="ESP">`
+`<interp type="Mexico">`
 Que conteste @HLGatell:
 ¿Por qué compra la vacuna rusa que no tiene aval de la OMS ni de la comunidad científica internacional?
 A ver, que conteste la pregunta.
@@ -237,6 +246,7 @@ A ver, que conteste la pregunta.
 `</author>`
 `<tweetText>`
 `<lang type="ESP">`
+`<interp type="Mexico">`
 La 4T pide a Twitter que cierren mi cuenta por decir la verdad sobre la vacuna rusa: 
 NO está aprobada por la comunidad científica internacional y Alemania NO les compró vacunas, solo les ofreció ayuda porque su vacuna NO aprueba requisitos para entrar a la UE.
 `<creationDate>` 26/01/2021 `</creationDate>`
@@ -259,6 +269,7 @@ NO está aprobada por la comunidad científica internacional y Alemania NO les c
 `</author>`
 `<tweetText>`
 `<lang type="ESP">`
+`<interp type="Mexico">`
 México no requiere “afecto” de Rusia; un país antidemocrático, autoritario, sin libertad de expresión y corrupto.
 Menos necesitamos sus vacunas de mala calidad, no subestimen al pueblo.
 `<creationDate>` 26/01/2021 `</creationDate>`
@@ -282,6 +293,7 @@ hilo
 `</author>`
 `<tweetText>`
 `<lang type="ESP">`
+`<interp type="Mexico">`
 Hoy, 24 de diciembre, inicia la vacunación contra #COVID19 en México y cambia el manejo de la epidemia con una luz de esperanza; ya tenemos un instrumento de protección efectivo. 1/2
 `<figure>`
 `<figDesc>` Imágen con dos personas al frente; una sentada en una silla mientras otra le aplica una vacuna en el hombro. Detrás otras dos personas paradas en cada lado. `</figDesc>`
@@ -307,6 +319,7 @@ Hoy, 24 de diciembre, inicia la vacunación contra #COVID19 en México y cambia 
 `</author>`
 `<tweetText>`
 `<lang type="ESP">`
+`<interp type="Mexico">`
 Acompañamos al presidente @lopezobrador_  en la llamada con el presidente de Rusia, Vladimir Putin, quien respaldó el acuerdo de adquirir 24 millones de dosis, para 12 millones de personas, de la vacuna Sputnik V. Esto es resultado de la exitosa visita del 7 de enero a Argentina.
 `<figure>`
 `<figDesc>` Imágen una persona sentada frente a un escritorio de madera con una computadora sobre ella, está haciendo videollamada con otra persona. Detras del hombre hay una bandera mexicana y un telefono. `</figDesc>`
@@ -331,6 +344,7 @@ Acompañamos al presidente @lopezobrador_  en la llamada con el presidente de Ru
 `</author>`
 `<tweetText>`
 `<lang type="ESP">`
+`<interp type="Mexico">`
 La secretaria de Gobernación, @M_OlgaSCordero , aseguró que la consulta ciudadana para la despenalización del aborto no es por los derechos, ya que "los derechos no son discutibles". Lee más: `<link>` https://animalpolitico.com/2021/01/consulta-ciudadana-aborto-sanchez-cordero-amlo/ `</link>`
 `<figure>`
 `<figDesc>` Video de una mujer parada frente a un micrófono hablando, detrás de ella está la bandera mexicana y frente a ella varias periodistas haciendole preguntas. `</figDesc>`
@@ -356,6 +370,7 @@ La secretaria de Gobernación, @M_OlgaSCordero , aseguró que la consulta ciudad
 `</author>`
 `<tweetText>`
 `<lang type="ESP">`
+`<interp type="Mexico">`
 Taiwán tiene 25 millones de habitantes y han muerto sólo 7 personas por COVID. En Nueva Zelanda solo 25. Ambas economías están abiertas y los niños van a la escuela. 
 La diferencia es que, desde el principio, tomaron muy en serio la pandemia. En México el manejo ha sido criminal.
 `<figure>`
