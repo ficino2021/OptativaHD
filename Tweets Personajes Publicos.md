@@ -76,3 +76,28 @@ My heart didn’t make it. I’m Skull/Face
 `<creationDate>`22 nov. 2020`</creationDate>`
 `<source>`[https://twitter.com/PedroPascal1/status/1330520812705746946](https://twitter.com/PedroPascal1/status/1330520812705746946)`</source>`
 `</tweet>`
+
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Don’t let yourself surrender to the fatigue.<br><br>America is not going to lose the war against this virus. <br><br>We’ll get our lives back. Life is going to return to normal. I promise.</p>&mdash; Joe Biden (@JoeBiden) <a href="https://twitter.com/JoeBiden/status/1331761084873789440?ref_src=twsrc%5Etfw">November 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
+`<tweet id="J4">`
+`<author>`
+`<name>`Joe Biden`</name>`
+`<screenName>`@JoeBiden`</screenName>`
+`</author>`
+`<tweetText>`
+`<interp type="Figura Politica">`
+`<lang type="eng">`
+Don’t let yourself surrender to the fatigue.
+America is not going to lose the war against this virus.
+We’ll get our lives back. Life is going to return to normal. I promise.
+`<figure>`
+ `<figDesc>`without image`</figDesc>`
+`</figure>`
+`</lang>`
+`</interp>`
+`</tweetText>`
+`<creationDate>`25 nov. 2020`</creationDate>`
+`<source>`[https://twitter.com/JoeBiden/status/1331761084873789440](https://twitter.com/JoeBiden/status/1331761084873789440)`</source>`
+`</tweet>`
