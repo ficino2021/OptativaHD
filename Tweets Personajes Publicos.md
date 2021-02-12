@@ -29,3 +29,23 @@ stay safe!
 `<creationDate>`10 nov. 2020`</creationDate>`
 `<source>`[https://twitter.com/itaparu99/status/1326130521290629120](https://twitter.com/itaparu99/status/1326130521290629120)`</source>`
 `</tweet>`
+
+`<tweet id="J2">`
+`<author>`
+`<name>`Justin Trudeau`</name>`
+`<screenName>`@JustinTrudeau`</screenName>`
+`</author>`
+`<tweetText>`
+`<interp type="Figura politica">`
+`<lang type="eng">`
+We can flatten the curve. We know how to do it - in fact, we’ve even done it before. We just need to do it again. Let’s fight this virus together by following public
+health rules and using the #COVIDAlert app. Get the app here: https://bit.ly/33rHsjD
+`<figure>`
+ `<figDesc>`Video del presidente dando recomendaciones de salud y datos sobre el COVID-19`</figDesc>`
+`</figure>`
+`</lang type="eng">`
+`</interp>`
+`</tweetText>`
+`<creationDate>`29 nov. 2020`</creationDate>`
+`<source>`[https://twitter.com/JustinTrudeau/status/1333150551102664706](https://twitter.com/JustinTrudeau/status/1333150551102664706)`</source>`
+`</tweet>`
