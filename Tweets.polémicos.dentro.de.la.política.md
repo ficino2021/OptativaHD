@@ -53,7 +53,7 @@ Me la quería comer a besos, pero no puedo por la sana distancia. Es un primor.
 `</lang>`
 `</interp>`
 `</tweetText>`
-`<source>` [https://twitter.com/lopezobrador_/status/1241204697014448129?s=19] `</source>`
+`<source>` [https://twitter.com/lopezobrador_/status/1241204697014448129?s=19](https://twitter.com/lopezobrador_/status/1241204697014448129?s=19) `</source>`
 `</tweet>`
 
 
@@ -81,7 +81,7 @@ La diferencia es que, desde el principio, tomaron muy en serio la pandemia. En M
 `</lang>`
 `</interp>`
 `</tweetText>`
-`<source>` [https://twitter.com/RicardoAnayaC/status/1333410501934669825] `</source>`
+`<source>` [https://twitter.com/RicardoAnayaC/status/1333410501934669825](https://twitter.com/RicardoAnayaC/status/1333410501934669825) `</source>`
 `</tweet>`
 
 
@@ -108,7 +108,7 @@ No hay mejor muestra de la responsabilidad del pueblo de México ante la pandemi
 `</lang>`
 `</interp>`
 `</tweetText>`
-`<source>` [https://twitter.com/lopezobrador_/status/1337829604174655488] `</source>`
+`<source>` [https://twitter.com/lopezobrador_/status/1337829604174655488](https://twitter.com/lopezobrador_/status/1337829604174655488) `</source>`
 `</tweet>`
 
 
@@ -136,7 +136,7 @@ Desde el histórico ayuntamiento de Valladolid, Yucatán, he conversado por tel�
 `</lang>`
 `</interp>`
 `</tweetText>`
-`<source>` [https://twitter.com/lopezobrador_/status/1340448798775001088] `</source>`
+`<source>` [https://twitter.com/lopezobrador_/status/1340448798775001088](https://twitter.com/lopezobrador_/status/1340448798775001088) `</source>`
 `</tweet>`
 
 
@@ -163,7 +163,7 @@ Hoy, 24 de diciembre, inicia la vacunación contra #COVID19 en México y cambia 
 `</lang>`
 `</interp>`
 `</tweetText>`
-`<source>` [https://twitter.com/HLGatell/status/1342113138204942336] `</source>`
+`<source>` [https://twitter.com/HLGatell/status/1342113138204942336](https://twitter.com/HLGatell/status/1342113138204942336) `</source>`
 `</tweet>`
 
 
@@ -190,7 +190,7 @@ Avanzamos en la aplicación de la vacuna contra el #COVID19. Es la esperanza má
 `</lang>`
 `</interp>`
 `</tweetText>`
-`<source>` [https://twitter.com/lopezobrador_/status/1343375224532832258] `</source>`
+`<source>` [https://twitter.com/lopezobrador_/status/1343375224532832258](https://twitter.com/lopezobrador_/status/1343375224532832258) `</source>`
 `</tweet>`
 
 
@@ -217,7 +217,7 @@ Nuestra familia les desea un feliz año 2021. Hoy, en homenaje a los fallecidos 
 `</lang>`
 `</interp>`
 `</tweetText>`
-`<source>` [https://twitter.com/lopezobrador_/status/1344780378158948352] `</source>`
+`<source>` [https://twitter.com/lopezobrador_/status/1344780378158948352](https://twitter.com/lopezobrador_/status/1344780378158948352) `</source>`
 `</tweet>`
 
 
@@ -246,7 +246,7 @@ Conversamos con el presidente Biden, fue amable y respetuoso. Tratamos asuntos r
 `</lang>`
 `</interp>`
 `</tweetText>`
-`<source>` [https://twitter.com/lopezobrador_/status/1352777092832743425] `</source>`
+`<source>` [https://twitter.com/lopezobrador_/status/1352777092832743425](https://twitter.com/lopezobrador_/status/1352777092832743425) `</source>`
 `</tweet>`
 
 
@@ -269,7 +269,7 @@ Lamento informarles que estoy contagiado de COVID-19. Los síntomas son leves pe
 `</lang>`
 `</interp>`
 `</tweetText>`
-`<source>` [https://twitter.com/lopezobrador_/status/1353500519344578560] `</source>`
+`<source>` [https://twitter.com/lopezobrador_/status/1353500519344578560](https://twitter.com/lopezobrador_/status/1353500519344578560) `</source>`
 `</tweet>`
 
 
@@ -297,7 +297,7 @@ Acompañamos al presidente @lopezobrador_  en la llamada con el presidente de Ru
 `</lang>`
 `</interp>`
 `</tweetText>`
-`<source>` [https://twitter.com/HLGatell/status/1353760262638211075] `</source>`
+`<source>` [https://twitter.com/HLGatell/status/1353760262638211075](https://twitter.com/HLGatell/status/1353760262638211075) `</source>`
 `</tweet>`
 
 
@@ -322,7 +322,7 @@ A ver, que conteste la pregunta.
 `</lang>`
 `</interp>`
 `</tweetText>`
-`<source>` [https://twitter.com/LillyTellez/status/1354256084161024000] `</source>`
+`<source>` [https://twitter.com/LillyTellez/status/1354256084161024000](https://twitter.com/LillyTellez/status/1354256084161024000) `</source>`
 `</tweet>`
 
 
@@ -345,7 +345,7 @@ NO está aprobada por la comunidad científica internacional y Alemania NO les c
 `</lang>`
 `</interp>`
 `</tweetText>`
-`<source>` [https://twitter.com/LillyTellez/status/1354114779095343110] `</source>`
+`<source>` [https://twitter.com/LillyTellez/status/1354114779095343110](https://twitter.com/LillyTellez/status/1354114779095343110) `</source>`
 `</tweet>`
 
 
@@ -368,7 +368,7 @@ Menos necesitamos sus vacunas de mala calidad, no subestimen al pueblo.
 `</lang>`
 `</interp>`
 `</tweetText>`
-`<source>` [https://twitter.com/LillyTellez/status/1353741627576127490] `</source>`
+`<source>` [https://twitter.com/LillyTellez/status/1353741627576127490](https://twitter.com/LillyTellez/status/1353741627576127490) `</source>`
 `</tweet>`
 
 
@@ -395,7 +395,7 @@ La secretaria de Gobernación, @M_OlgaSCordero , aseguró que la consulta ciudad
 `</lang>`
 `</interp>`
 `</tweetText>`
-`<source>` [https://twitter.com/Pajaropolitico/status/1354452659881828359?s=20] `</source>`
+`<source>` [https://twitter.com/Pajaropolitico/status/1354452659881828359?s=20](https://twitter.com/Pajaropolitico/status/1354452659881828359?s=20) `</source>`
 `</tweet>`
 
 
@@ -407,7 +407,7 @@ La secretaria de Gobernación, @M_OlgaSCordero , aseguró que la consulta ciudad
 
 ## *Estados Unidos*
   
-Hilo
+
   
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">You had Jeffrey Epstein killed to cover up your history of child trafficking and rape. We&#39;ve have the recipts here: <a href="https://t.co/zYnSn3kCNe">https://t.co/zYnSn3kCNe</a><br><br> <a href="https://t.co/rfqlmd4Mm4">https://t.co/rfqlmd4Mm4</a></p>&mdash; Anonymous (@YourAnonCentral) <a href="https://twitter.com/YourAnonCentral/status/1266993717207904256?ref_src=twsrc%5Etfw">May 31, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
   
