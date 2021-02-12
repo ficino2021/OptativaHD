@@ -6,7 +6,7 @@ title: Tweets personajes publicos
 
 # **El pensar entre nuestros lideres de opinión**
 
-## *Top*
+## *Age of COVID*
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">stay safe! <a href="https://t.co/E1ITroirHX">pic.twitter.com/E1ITroirHX</a></p>&mdash; 板垣巴留🐺BEASTARSとか (@itaparu99) <a href="https://twitter.com/itaparu99/status/1326130521290629120?ref_src=twsrc%5Etfw">November 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
@@ -33,6 +33,7 @@ stay safe!
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">We can flatten the curve. We know how to do it - in fact, we’ve even done it before. We just need to do it again. Let’s fight this virus together by following public health rules and using the <a href="https://twitter.com/hashtag/COVIDAlert?src=hash&amp;ref_src=twsrc%5Etfw">#COVIDAlert</a> app. Get the app here: <a href="https://t.co/WDYMcc5UlR">https://t.co/WDYMcc5UlR</a> <a href="https://t.co/p4biBe09To">pic.twitter.com/p4biBe09To</a></p>&mdash; Justin Trudeau (@JustinTrudeau) <a href="https://twitter.com/JustinTrudeau/status/1333150551102664706?ref_src=twsrc%5Etfw">November 29, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
+
 `<tweet id="J2">`
 `<author>`
 `<name>`Justin Trudeau`</name>`
@@ -51,4 +52,27 @@ health rules and using the #COVIDAlert app. Get the app here: https://bit.ly/33r
 `</tweetText>`
 `<creationDate>`29 nov. 2020`</creationDate>`
 `<source>`[https://twitter.com/JustinTrudeau/status/1333150551102664706](https://twitter.com/JustinTrudeau/status/1333150551102664706)`</source>`
+`</tweet>`
+
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">My heart didn’t make it. I’m 💀 <a href="https://t.co/cURKIllari">https://t.co/cURKIllari</a></p>&mdash; Pedro Pascal he/him (@PedroPascal1) <a href="https://twitter.com/PedroPascal1/status/1330520812705746946?ref_src=twsrc%5Etfw">November 22, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
+`<tweet id="J3">`
+`<author>`
+`<name>`Pedro Pascal he/him`</name>`
+`<screenName>`@PedroPascal1`</screenName>`
+`</author>`
+`<tweetText>`
+`<interp type="actor">`
+`<lang type="eng">`
+My heart didn’t make it. I’m Skull/Face
+`<figure>`
+ `<figDesc>` Niña con mascara de Jango Fett`</figDesc>`
+`</figure>`
+`</lang>`
+`</interp>`
+`</tweetText>`
+`<creationDate>`22 nov. 2020`</creationDate>`
+`<source>`[https://twitter.com/PedroPascal1/status/1330520812705746946](https://twitter.com/PedroPascal1/status/1330520812705746946)`</source>`
 `</tweet>`
