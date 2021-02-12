@@ -199,3 +199,26 @@ This first time poll worker helped 125 people vote before lunch. #MaskUpAndVote
 `<creationDate>`3 nov. 2020`</creationDate>`
 `<source>[`https://twitter.com/RTendulkarMD/status/1323677397531676672](https://twitter.com/RTendulkarMD/status/1323677397531676672)`</source>`
 `</tweet>`
+
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Frontline workers are my heroes of this year. I’m grateful to every one of them. <a href="https://t.co/5qtJgmjZM4">pic.twitter.com/5qtJgmjZM4</a></p>&mdash; Ellen DeGeneres (@TheEllenShow) <a href="https://twitter.com/TheEllenShow/status/1341454023816339456?ref_src=twsrc%5Etfw">December 22, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
+`<tweet id="J9">`
+`<author>`
+`<name>`Ellen DeGeneres`</name>`
+`<screenName>`@TheEllenShow`</screenName>`
+`</author>`
+`<tweetText>`
+`<interp type="Actriz">`
+`<lang type="eng">`
+Frontline workers are my heroes of this year. I’m grateful to every one of them.
+`<figure>`
+ `<figDesc>`Video de Ellen dando regalos a enfermeros/medicos`</figDesc>`
+`</figure>`
+`</lang>`
+`</interp>`
+`</tweetText>`
+`<creationDate>`22 dic. 2020`</creationDate>`
+`<source>`[https://twitter.com/TheEllenShow/status/1341454023816339456](https://twitter.com/TheEllenShow/status/1341454023816339456)`</source>`
+`</tweet>`
