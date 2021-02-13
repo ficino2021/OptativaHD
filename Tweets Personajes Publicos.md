@@ -230,7 +230,7 @@ Frontline workers are my heroes of this year. I’m grateful to every one of the
 `<tweet id="J10">`
 `<author>`
 `<name>`Tim Cook`</name>`
-<screenName>`@tim_cook`</screenName>
+`<screenName>`@tim_cook`</screenName>`
 `</author>`
 `<tweetText>`
 `<interp type="Empresario">`
