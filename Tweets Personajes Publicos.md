@@ -275,3 +275,27 @@ The virus doesn’t discriminate, even if we do.
 `</tweet>`
 
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Was careful here in Oregon but visited nashville earlier this week. Don’t know if that was it but I seem to have come down with COVID symptoms. Got tested but won’t know for awhile. Pretty weak, slight fever &amp; cough but otherwise ok. Will report in. Now catching up on sleep. :)</p>&mdash; Lawrence M. Krauss (@LKrauss1) <a href="https://twitter.com/LKrauss1/status/1328053909768683522?ref_src=twsrc%5Etfw">November 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
+`<tweet id="J12">`
+`<author>`
+`<name>`Lawrence M.Krauss`</name>`
+`<screenName>`@LKrauss1`</screenName>`
+`</author>`
+`<tweetText>`
+`<interp type="Fisico">`
+`<lang type="eng">`
+Was careful here in Oregon but visited nashville earlier this week. Don’t know if that was it but I seem to have come down with COVID symptoms.
+Got tested but won’t know for awhile.
+Pretty weak, slight fever & cough but otherwise ok.
+Will report in. Now catching up on sleep. :)
+`<figure>`
+ `<figDesc>`without image`</figDesc>`
+`</figure>`
+`</lang>`
+`</interp>`
+`</tweetText>`
+`<creationDate>`15 nov. 2020`</creationDate>`
+`<source>`[https://twitter.com/LKrauss1/status/1328053909768683522](https://twitter.com/LKrauss1/status/1328053909768683522)`</source>`
+`</tweet>`
