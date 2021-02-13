@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tweets personajes publicos
+title: Personajes publicos
 ---
 
 
