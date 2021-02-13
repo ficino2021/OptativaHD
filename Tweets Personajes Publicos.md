@@ -324,3 +324,28 @@ Also, when I typed in ‘gaetz’, I swear on everything, my autocorrect changed
 `<creationDate>`7 nov. 2020`</creationDate>`
 `<source>`[https://twitter.com/ChrisEvans/status/1325093931923726339](https://twitter.com/ChrisEvans/status/1325093931923726339)`</source>`
 `</tweet>`
+
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Before we get started…It’s 7pmET and you guys are cheering on the healthcare professionals and staff during their change of shifts—we’re clapping along with you. The incredibly brave medical staff working tirelessly on the frontlines against COVID-19 are superheroes. Thank you♥️ <a href="https://t.co/ndNl1TV7d5">https://t.co/ndNl1TV7d5</a></p>&mdash; Russo Brothers (@Russo_Brothers) <a href="https://twitter.com/Russo_Brothers/status/1254908278082961408?ref_src=twsrc%5Etfw">April 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
+`<tweet id="J14">`
+`<author>`
+`<name>`Russo Brothers`</name>`
+`<screenName>`@Russo_Brothers`</screenName>`
+`</author>`
+`<tweetText>`
+`<interp type="actor">`
+`<lang type="eng">`
+Before we get started…It’s 7pmET and you guys are cheering on the healthcare professionals and staff
+during their change of shifts—we’re clapping along with you.
+The incredibly brave medical staff working tirelessly on the frontlines against COVID-19 are superheroes. Thank you
+`<figure>`
+ `<figDesc>`Capitan america y demas vengadores con cubrebocas`</figDesc>`
+`</figure>`
+`</lang>`
+`</interp>`
+`</tweetText>`
+`<creationDate>`27 abr. 2020`</creationDate>`
+`<source>`[https://twitter.com/Russo_Brothers/status/1254908278082961408](https://twitter.com/Russo_Brothers/status/1254908278082961408)`</source>`
+`</tweet>`
