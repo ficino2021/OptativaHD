@@ -423,3 +423,26 @@ If you can, please donate to @yashar
 `<creationDate>`28 mar.2020`</creationDate>`
 `<source>`[https://twitter.com/BenAffleck/status/1244023720181510144](https://twitter.com/BenAffleck/status/1244023720181510144)`</source>`
 `</tweet>`
+
+
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Es viernes de cuarentena y mi cuerpo que no va a salir y va a dormir muchísimo lo sabe.</p>&mdash; Carla Castañeda M. (@DubbCarlaCM) <a href="https://twitter.com/DubbCarlaCM/status/1269101005528076292?ref_src=twsrc%5Etfw">June 6, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
+`<tweet id="J18">`
+`<author>`
+`<name>`Carla Castalleda M.`</name>`
+`<screenName>`DubbCarlaCM`</screenName>`
+`</author>`
+`<tweetText>`
+`<interp type="Actriz">`
+`<lang type="esp">`
+Es viernes de cuarentena y mi cuerpo que no va a salir y va a dormir muchísimo lo sabe.
+`<figure>`
+ `<figDesc>`without image`</figDesc>`
+`</figure>`
+`</lang>`
+`</interp>`
+`</tweetText>`
+`<creationDate>`5 jun.2020`</creationDate>`
+`<source>`[https://twitter.com/DubbCarlaCM/status/1269101005528076292](https://twitter.com/DubbCarlaCM/status/1269101005528076292)`</source>`
+`</tweet>`
