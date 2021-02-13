@@ -374,3 +374,28 @@ Go to: http://conquercovid19.ca #boringtshirtchallenge
 `<creationDate>`8 may. 2020`</creationDate>`
 `<source>`[https://twitter.com/VancityReynolds/status/1258758476060377089](https://twitter.com/VancityReynolds/status/1258758476060377089)`</source>`
 `</tweet>`
+
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">AFSP launched a digital toolkit containing resources to help you cope with your mental health and the COVID-19 outbreak. You&#39;ll find advice, guidance, content for social sharing, public messages, and more! <a href="https://twitter.com/hashtag/AFSP?src=hash&amp;ref_src=twsrc%5Etfw">#AFSP</a> <a href="https://twitter.com/hashtag/MentalHealthAwarenessMonth?src=hash&amp;ref_src=twsrc%5Etfw">#MentalHealthAwarenessMonth</a> <a href="https://t.co/ctKFg1x0xg">https://t.co/ctKFg1x0xg</a> <a href="https://t.co/rSkKDj6nOi">pic.twitter.com/rSkKDj6nOi</a></p>&mdash; Zack Snyder (@ZackSnyder) <a href="https://twitter.com/ZackSnyder/status/1257307303490883586?ref_src=twsrc%5Etfw">May 4, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
+`<tweet id="J16">`
+`<author>`
+`<name>`Zack Snyder`</name>`
+`<screenName>`@ZackSnyder`</screenName>`
+`</author>`
+`<tweetText>`
+`<interp type="actor">`
+`<lang type="eng">`
+AFSP launched a digital toolkit containing resources to help you cope with your mental health and the COVID-19 outbreak.
+You'll find advice, guidance, content for social sharing, public messages, and more!
+#AFSP #MentalHealthAwarenessMonth http://afsp.org/covid19
+`<figure>`
+ `<figDesc>`Imagen publicitaria de la Asociacion americana de prevencion del suicidio`</figDesc>`
+`</figure>`
+`</lang>`
+`</interp>`
+`</tweetText>`
+`<creationDate>`4 may. 2020`</creationDate>`
+`<source>`[https://twitter.com/ZackSnyder/status/1257307303490883586](https://twitter.com/ZackSnyder/status/1257307303490883586)`</source>`
+`</tweet>`
