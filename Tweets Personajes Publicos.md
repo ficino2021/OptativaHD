@@ -399,3 +399,27 @@ You'll find advice, guidance, content for social sharing, public messages, and m
 `<creationDate>`4 may. 2020`</creationDate>`
 `<source>`[https://twitter.com/ZackSnyder/status/1257307303490883586](https://twitter.com/ZackSnyder/status/1257307303490883586)`</source>`
 `</tweet>`
+
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">If you can, please donate to <a href="https://twitter.com/yashar?ref_src=twsrc%5Etfw">@yashar</a>’s fund which will directly support hourly workers impacted by the Coronavirus pandemic. <a href="https://t.co/s5R4n3iooJ">https://t.co/s5R4n3iooJ</a></p>&mdash; Ben Affleck (@BenAffleck) <a href="https://twitter.com/BenAffleck/status/1244023720181510144?ref_src=twsrc%5Etfw">March 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
+`<tweet id="J17">`
+`<author>`
+`<name>`Ben Affleck`</name>`
+`<screenName>`@BenAffleck`</screenName>`
+`</author>`
+`<tweetText>`
+`<interp type="actor">`
+`<lang type="eng">`
+If you can, please donate to @yashar
+’s fund which will directly support hourly workers impacted by the Coronavirus pandemic.
+`<figure>`
+ `<figDesc>`without image`</figDesc>`
+`</figure>`
+`</lang>`
+`</interp>`
+`</tweetText>`
+`<creationDate>`28 mar.2020`</creationDate>`
+`<source>`[https://twitter.com/BenAffleck/status/1244023720181510144](https://twitter.com/BenAffleck/status/1244023720181510144)`</source>`
+`</tweet>`
