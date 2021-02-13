@@ -349,3 +349,28 @@ The incredibly brave medical staff working tirelessly on the frontlines against 
 `<creationDate>`27 abr. 2020`</creationDate>`
 `<source>`[https://twitter.com/Russo_Brothers/status/1254908278082961408](https://twitter.com/Russo_Brothers/status/1254908278082961408)`</source>`
 `</tweet>`
+
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Some people have said these Conquer Covid-19 shirts are “too boring”. Well, guess what, Blake? Not anymore... Go to: <a href="https://t.co/RGPqXGZopF">https://t.co/RGPqXGZopF</a> <a href="https://twitter.com/hashtag/boringtshirtchallenge?src=hash&amp;ref_src=twsrc%5Etfw">#boringtshirtchallenge</a> 🇨🇦 <a href="https://t.co/IfkEbgbyi9">pic.twitter.com/IfkEbgbyi9</a></p>&mdash; Ryan Reynolds (@VancityReynolds) <a href="https://twitter.com/VancityReynolds/status/1258758476060377089?ref_src=twsrc%5Etfw">May 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
+`<tweet id="J15">`
+`<author>`
+`<name>`Wryan Reynolds`</name>`
+`<screenName>`VancityReynolds`</screenName>`
+`</author>`
+`<tweetText>`
+`<interp type="actor">`
+`<lang type="eng">`
+Some people have said these Conquer Covid-19 shirts are “too boring”.
+Well, guess what, Blake? Not anymore...
+Go to: http://conquercovid19.ca #boringtshirtchallenge
+`<figure>`
+ `<figDesc>`Video con Wryan Reyolds promocionando playeras con tematica COVID-19`</figDesc>`
+`</figure>`
+`</lang>`
+`</interp>`
+`</tweetText>`
+`<creationDate>`8 may. 2020`</creationDate>`
+`<source>`[https://twitter.com/VancityReynolds/status/1258758476060377089](https://twitter.com/VancityReynolds/status/1258758476060377089)`</source>`
+`</tweet>`
