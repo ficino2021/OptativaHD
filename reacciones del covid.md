@@ -196,3 +196,95 @@ Así de #covidiotas son.
 
 # comicos 
 
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Que este año todo sea positivo menos el covid y las pruebas de embarazo <a href="https://t.co/D6BQw2t1hQ">pic.twitter.com/D6BQw2t1hQ</a></p>&mdash; out of context méxico (@outofcontextfmx) <a href="https://twitter.com/outofcontextfmx/status/1349237776680505348?ref_src=twsrc%5Etfw">January 13, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+`<tweet id=“MV11”>`
+`<author>`
+`<name>` out of context mexico `</name>`
+`<screenName>` @outofcontextfmx `</screenName>`
+`</author>`
+`<tweetText>`
+`<interp type="comicos">`
+`<lang type="ESP">`
+Que este año todo sea positivo menos el covid y las pruebas de embarazo
+`<figure>`
+`<figDesc>` una camtura de pantalla de dos tweets, uno dice "m esta doliendo la cabeza como cuando tenia covid" y el otro "JAJJSJAJA WEY asi llevo desde la tarde"  `</figDesc>`
+`</figure>`
+`<creationDate>` 13/01/2021 `</creationDate>`
+`</lang>`
+`</interp>`
+`</tweetText>`
+`<source>` [https://twitter.com/outofcontextfmx/status/1349237776680505348?s=19](https://twitter.com/outofcontextfmx/status/1349237776680505348?s=19) `</source>`
+`</tweet>`
+
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">La psicóloga estaría muy orgullosa de mi por haber arrancado muy positivo el año...lástima que sea positivo en covid</p>&mdash; Braian Merlo (@BraianMerlo) <a href="https://twitter.com/BraianMerlo/status/1347228610894188544?ref_src=twsrc%5Etfw">January 7, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+`<tweet id=“MV12”>`
+`<author>`
+`<name>` Braian Merlo `</name>`
+`<screenName>` @BraianMerlo `</screenName>`
+`</author>`
+`<tweetText>`
+`<interp type="comicos">`
+`<lang type="ESP">`
+La psicóloga estaría muy orgullosa de mi por haber arrancado muy positivo el año...lástima que sea positivo en covid
+`<creationDate>` 07/01/2021 `</creationDate>`
+`</lang>`
+`</interp>`
+`</tweetText>`
+`<source>` [https://twitter.com/BraianMerlo/status/1347228610894188544?s=19](https://twitter.com/BraianMerlo/status/1347228610894188544?s=19) `</source>`
+`</tweet>`
+
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">* Los médicos hablando con pacientes: <br>COVID-19, Sars Cov-2 🤓<br><br>*Los médicos entre ellos: <br>Covix, kovis, cogbing, covitz, covi 😅</p>&mdash; Dr. Ibuprofeno 💊 (@dr_ibuprofeno) <a href="https://twitter.com/dr_ibuprofeno/status/1348379209073373184?ref_src=twsrc%5Etfw">January 10, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+`<tweet id=“MV13”>`
+`<author>`
+`<name>` Dr. Ibuprofeno `</name>`
+`<screenName>` @dr_ibuprofeno `</screenName>`
+`</author>`
+`<tweetText>`
+`<interp type="comicos">`
+`<lang type="ESP">`
+* Los médicos hablando con pacientes: 
+COVID-19, Sars Cov-2 🤓
+*Los médicos entre ellos: 
+Covix, kovis, cogbing, covitz, covi 😅
+`<creationDate>` 10/01/2021 `</creationDate>`
+`</lang>`
+`</interp>`
+`</tweetText>`
+`<source>` [https://twitter.com/dr_ibuprofeno/status/1348379209073373184?s=19](https://twitter.com/dr_ibuprofeno/status/1348379209073373184?s=19) `</source>`
+`</tweet>`
+
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Qué más quieres de nosotros FacMed? Sobrevivimos al Covi sin vacuna QUE MÁS QUIERES? YA DAME MI TÍTULO MENSA</p>&mdash; Guillain Barré (@11jch_11) <a href="https://twitter.com/11jch_11/status/1348793735631544320?ref_src=twsrc%5Etfw">January 12, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+`<tweet id=“MV14”>`
+`<author>`
+`<name>`Guillain Barre `</name>`
+`<screenName>` @11jch_11 `</screenName>`
+`</author>`
+`<tweetText>`
+`<interp type="comicos">`
+`<lang type="ESP">`
+Qué más quieres de nosotros FacMed? Sobrevivimos al Covi sin vacuna QUE MÁS QUIERES? YA DAME MI TÍTULO MENSA
+`<creationDate>` 11/01/2021 `</creationDate>`
+`</lang>`
+`</interp>`
+`</tweetText>`
+`<source>` [https://twitter.com/11jch_11/status/1348793735631544320?s=19](https://twitter.com/11jch_11/status/1348793735631544320?s=19) `</source>`
+`</tweet>`
+
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">a amlo le dio covi en mi cumpleaños gracias a todos por sus buenos deseos 🥰🥰🥰🥰</p>&mdash; lxurx (@Laurafregoso13) <a href="https://twitter.com/Laurafregoso13/status/1353507428436992000?ref_src=twsrc%5Etfw">January 25, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+`<tweet id=“MV15”>`
+`<author>`
+`<name>` Ixurx `</name>`
+`<screenName>` @Laurafregoso13 `</screenName>`
+`</author>`
+`<tweetText>`
+`<interp type="comicos">`
+`<lang type="ESP">`
+a amlo le dio covi en mi cumpleaños gracias a todos por sus buenos deseos 🥰🥰🥰🥰
+`<creationDate>` 24/01/2021 `</creationDate>`
+`</lang>`
+`</interp>`
+`</tweetText>`
+`<source>` [https://twitter.com/Laurafregoso13/status/1353507428436992000?s=20](https://twitter.com/Laurafregoso13/status/1353507428436992000?s=20) `</source>`
+`</tweet>`
