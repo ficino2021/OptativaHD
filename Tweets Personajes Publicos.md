@@ -222,3 +222,30 @@ Frontline workers are my heroes of this year. I’m grateful to every one of the
 `<creationDate>`22 dic. 2020`</creationDate>`
 `<source>`[https://twitter.com/TheEllenShow/status/1341454023816339456](https://twitter.com/TheEllenShow/status/1341454023816339456)`</source>`
 `</tweet>`
+
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">As we work together to fight the rise in cases in California, exposure notifications will help slow the spread of COVID-19 and put our neighbors’ health first. Thank you <a href="https://twitter.com/GavinNewsom?ref_src=twsrc%5Etfw">@GavinNewsom</a> &amp; <a href="https://twitter.com/Google?ref_src=twsrc%5Etfw">@Google</a> for helping bring CA Notify to Californians while putting privacy at the very center. <a href="https://t.co/LbsBQn6zCD">https://t.co/LbsBQn6zCD</a></p>&mdash; Tim Cook (@tim_cook) <a href="https://twitter.com/tim_cook/status/1336026658201997318?ref_src=twsrc%5Etfw">December 7, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
+`<tweet id="J10">`
+`<author>`
+`<name>`Tim Cook`</name>`
+<screenName>`@tim_cook`</screenName>
+`</author>`
+`<tweetText>`
+`<interp type="Empresario">`
+`<lang type="eng">`
+As we work together to fight the rise in cases in California,
+exposure notifications will help slow the spread of COVID-19 and put our neighbors’ health first.
+Thank you @GavinNewsom & @Google
+for helping bring CA Notify to Californians while putting privacy at the very center.
+`<figure>`
+ `<figDesc>`without image`</figDesc>`
+`</figure>`
+`</lang>`
+`</interp>`
+`</tweetText>`
+`<creationDate>`7 dic. 2020`</creationDate>`
+`<source>`[https://twitter.com/tim_cook/status/1336026658201997318](https://twitter.com/tim_cook/status/1336026658201997318)`</source>`
+`</tweet>`
+
