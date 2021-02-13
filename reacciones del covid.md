@@ -59,7 +59,7 @@ Hoy es mi cumpleaños y esta señora es mi regalo, le está echando muchas ganas
 `<lang type="ESP">`
 Hoy es mi último día de cuarentena y el atardecer fue hermoso. It feels so good to be alive
 `<figure>`
-`<figDesc>la foto de un atardecer tras una ventana</figDesc>`
+`<figDesc>`la foto de un atardecer tras una ventana`</figDesc>`
 `</figure>`
 `<creationDate>` 12/01/2021 `</creationDate>`
 `</interp>`
