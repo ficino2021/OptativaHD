@@ -446,3 +446,26 @@ Es viernes de cuarentena y mi cuerpo que no va a salir y va a dormir muchísimo 
 `<creationDate>`5 jun.2020`</creationDate>`
 `<source>`[https://twitter.com/DubbCarlaCM/status/1269101005528076292](https://twitter.com/DubbCarlaCM/status/1269101005528076292)`</source>`
 `</tweet>`
+
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I feel very lucky to have had the vaccine. I would have no hesitation in recommending it to anyone. <a href="https://t.co/gBLRR0OeJc">https://t.co/gBLRR0OeJc</a></p>&mdash; Ian McKellen (@IanMcKellen) <a href="https://twitter.com/IanMcKellen/status/1339478688199442432?ref_src=twsrc%5Etfw">December 17, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
+`<tweet id="J19">`
+`<author>`
+`<name>`Ian McKellen`</name>`
+`<screenName>`@IanMcKellen`</screenName>`
+`</author>`
+`<tweetText>`
+`<interp type="actor">`
+`<lang type="eng">`
+I feel very lucky to have had the vaccine. I would have no hesitation in recommending it to anyone.
+`<figure>`
+ `<figDesc>`Foto de Ian siendo vacunado contra el COVID-19`</figDesc>`
+`</figure>`
+`</lang>`
+`</interp>`
+`</tweetText>`
+`<creationDate>`17 dic.2020`</creationDate>`
+`<source>`[https://twitter.com/IanMcKellen/status/1339478688199442432](https://twitter.com/IanMcKellen/status/1339478688199442432)`</source>`
+`</tweet>`
