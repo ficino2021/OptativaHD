@@ -469,3 +469,27 @@ I feel very lucky to have had the vaccine. I would have no hesitation in recomme
 `<creationDate>`17 dic.2020`</creationDate>`
 `<source>`[https://twitter.com/IanMcKellen/status/1339478688199442432](https://twitter.com/IanMcKellen/status/1339478688199442432)`</source>`
 `</tweet>`
+
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">5 people dead in the Capital riot, which is terrible and Trump lit the fuse. BUT...400,000 Americans will be dead of COVID-19 by 2/1/21. How many could have been saved if Donald Trump had just PUT ON A MASK AND LED BY EXAMPLE? There&#39;s your 25th Amendment.</p>&mdash; Stephen King (@StephenKing) <a href="https://twitter.com/StephenKing/status/1349910703898054658?ref_src=twsrc%5Etfw">January 15, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
+`<tweet id="J20">`
+`<author>`
+`<name>`Stephen King`</name>`
+`<screenName>`@StephenKing`</screenName>`
+`</author>`
+`<tweetText>`
+`<interp type="escritor">`
+`<lang typ="eng">`
+5 people dead in the Capital riot, which is terrible and Trump lit the fuse. BUT...400,000 Americans will be dead of COVID-19 by 2/1/21.
+How many could have been saved if Donald Trump had just PUT ON A MASK AND LED BY EXAMPLE? There's your 25th Amendment.
+`<figure>`
+ `<figDesc>`without image`</figDesc>`
+`</figure>`
+`</lang>`
+`</interp>`
+`</tweetText>`
+`<creationDate>`14 ene.2021`</creationDate>`
+`<source>`[https://twitter.com/StephenKing/status/1349910703898054658](https://twitter.com/StephenKing/status/1349910703898054658)`</source>`
+`</tweet>`
