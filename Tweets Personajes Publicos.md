@@ -249,3 +249,27 @@ for helping bring CA Notify to Californians while putting privacy at the very ce
 `<source>`[https://twitter.com/tim_cook/status/1336026658201997318](https://twitter.com/tim_cook/status/1336026658201997318)`</source>`
 `</tweet>`
 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We assemble Into tribes based on politics, religion, skin color, language, education, birthplace, wealth, &amp; gender expression. Yet COVID-19 reminds us we’re all the same.<br><br>The virus doesn’t discriminate, even if we do. <a href="https://t.co/ICmyklj8hl">pic.twitter.com/ICmyklj8hl</a></p>&mdash; Neil deGrasse Tyson (@neiltyson) <a href="https://twitter.com/neiltyson/status/1330160052263657475?ref_src=twsrc%5Etfw">November 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
+`<tweet id="J11">`
+`<author>`
+`<name>`Neil deGrasse Tyson`</name>`
+`<screenName>`@neiltyson`</screenName>`
+`</author>`
+`<tweetText>`
+`<interp type="Fisico">`
+`<lang type="eng">`
+We assemble Into tribes based on politics, religion, skin color, language, education, birthplace, wealth, & gender expression.
+Yet COVID-19 reminds us we’re all the same.
+The virus doesn’t discriminate, even if we do.
+`<figure>`
+ `<figDesc>`Fotografia conceptual del virus COVID-19`</figDesc>`
+`</figure>`
+`</lang>`
+`</interp>`
+`</tweetText>`
+`<creationDate>`21 nov. 2020`</creationDate>`
+`<source>`[https://twitter.com/neiltyson/status/1330160052263657475](https://twitter.com/neiltyson/status/1330160052263657475)`</source>`
+`</tweet>`
