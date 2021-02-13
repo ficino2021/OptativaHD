@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tweets polémicos dentro de la política
+title: Polémica en la política
 ---
 
 
