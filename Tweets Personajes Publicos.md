@@ -299,3 +299,28 @@ Will report in. Now catching up on sleep. :)
 `<creationDate>`15 nov. 2020`</creationDate>`
 `<source>`[https://twitter.com/LKrauss1/status/1328053909768683522](https://twitter.com/LKrauss1/status/1328053909768683522)`</source>`
 `</tweet>`
+
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Mark ‘Not Controlling the Pandemic’ Meadows AND Matt ‘Gas Mask’ Gaetz both test positive for Covid????<br><br>Wow. Just wow. The timing is stunning. <br><br>Also, when I typed in ‘gaetz’, I swear on everything, my autocorrect changed it to ‘farts’.</p>&mdash; Chris Evans (@ChrisEvans) <a href="https://twitter.com/ChrisEvans/status/1325093931923726339?ref_src=twsrc%5Etfw">November 7, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
+`<tweet id="J13">`
+`<author>`
+`<name>`Chris Evans`</name>`
+`<screenName>`@ChrisEvans`</screenName>`
+`</author>`
+`<tweetText>`
+`<interp type="actor">`
+`<lang type="eng">`
+Mark ‘Not Controlling the Pandemic’ Meadows AND Matt ‘Gas Mask’ Gaetz both test positive for Covid????
+Wow. Just wow. The timing is stunning.
+Also, when I typed in ‘gaetz’, I swear on everything, my autocorrect changed it to ‘farts’.
+`<figure>`
+ `<figDesc>`without image`</figDesc>`
+`</figure>`
+`</lang>`
+`</interp>`
+`</tweetText>`
+`<creationDate>`7 nov. 2020`</creationDate>`
+`<source>`[https://twitter.com/ChrisEvans/status/1325093931923726339](https://twitter.com/ChrisEvans/status/1325093931923726339)`</source>`
+`</tweet>`
