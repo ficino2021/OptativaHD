@@ -27,6 +27,8 @@ Ella es mi abuela , tiene 95 años , se encontraba en la residencial la cual tod
 
 <blockquote class="twitter-tweet"><p lang="es" dir="ltr">Hoy es mi cumpleaños y esta señora es mi regalo, le está echando muchas ganas contra el SARS-CoV-2 <br>Aún falta mucho, les mandamos luz y fuerza a todos los que están en la misma situación, no importa la gravedad y para aquellos que partirán de esta tierra, es una hasta pronto 💙👵🏼 <a href="https://t.co/edG66B9hMt">pic.twitter.com/edG66B9hMt</a></p>&mdash; alǝjnadro (@alexpedmd) <a href="https://twitter.com/alexpedmd/status/1353833193477177345?ref_src=twsrc%5Etfw">January 25, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+
+
 `<tweet id=“MV02”>`
 `<author>`
 `<name>` alejnadro `</name>`
@@ -288,3 +290,6 @@ a amlo le dio covi en mi cumpleaños gracias a todos por sus buenos deseos 🥰�
 `</tweetText>`
 `<source>` [https://twitter.com/Laurafregoso13/status/1353507428436992000?s=20](https://twitter.com/Laurafregoso13/status/1353507428436992000?s=20) `</source>`
 `</tweet>`
+
+# informativos 
+
