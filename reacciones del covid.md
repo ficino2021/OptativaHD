@@ -116,7 +116,7 @@ ya le pusieron la vacuna del covix a mi amorcito, ya estoy feliz
 `<tweetText>`
 `<interp type="molestia">`
 `<lang type="ESP">`
- Un virus que rompe todas los reglas, infecta murciélagos, pangolines visones, tigres y ahora gorilas.  #COVID19 es sin duda el mayor reto a la ciencia. Con tantos reservorios no habrá manera de eliminarlo, tendremos que aprender a vivir con él.
+ Un virus que rompe todas los reglas, infecta murciélagos, pangolines visones, tigres y ahora gorilas. `<entities_hastags>` #COVID19 `</entities_hastags>` es sin duda el mayor reto a la ciencia. Con tantos reservorios no habrá manera de eliminarlo, tendremos que aprender a vivir con él.
 `<creationDate>` 12/01/2021 `</creationDate>`
 `</lang>`
 `</interp>`
@@ -133,7 +133,7 @@ ya le pusieron la vacuna del covix a mi amorcito, ya estoy feliz
 `<tweetText>`
 `<interp type="molestia">`
 `<lang type="ESP">`
- Banda me cagan la gente, chavos que les vale madre el COVID, después cuando su familia esta contagiada se lamenta, como diría un amigo #Covidiotas denle RT.
+ Banda me cagan la gente, chavos que les vale madre el COVID, después cuando su familia esta contagiada se lamenta, como diría un amigo `<entities_hastags>` #Covidiotas `</entities_hastags>` denle RT.
 `<creationDate>` 21/01/2021 `</creationDate>`
 `</lang>`
 `</interp>`
@@ -152,7 +152,7 @@ ya le pusieron la vacuna del covix a mi amorcito, ya estoy feliz
 `<lang type="ESP">`
  Me da mucha pena ajena ver a los internos, pasantes o médicos que obtuvieron la vacuna y andan en la peda como si nada pasara.. 
 Hay más gente que se la merece. 
-#GrowUp #Covid_19  #Covidiotas
+`<entities_hastags>` #GrowUp `</entities_hastags>` `<entities_hastags>` #Covid_19 `</entities_hastags>` `<entities_hastags>` #Covidiotas `</entities_hastags>`
 `<creationDate>` 25/01/2021 `</creationDate>`
 `</lang>`
 `</interp>`
@@ -169,8 +169,8 @@ Hay más gente que se la merece.
 `<tweetText>`
 `<interp type="molestia">`
 `<lang type="ESP">`
- Les apuesto que se pondrán de moda las pruebas #COVID19 NEGATIVAS, a la carta.
-Así de #covidiotas son.
+ Les apuesto que se pondrán de moda las pruebas `<entities_hastags>`#COVID19`</entities_hastags>` NEGATIVAS, a la carta.
+Así de `<entities_hastags>`#covidiotas`</entities_hastags>` son.
 `<creationDate>` 26/01/2021 `</creationDate>`
 `</lang>`
 `</interp>`
@@ -187,7 +187,7 @@ Así de #covidiotas son.
 `<tweetText>`
 `<interp type="molestia">`
 `<lang type="ESP">`
- No los leo criticando a la gente que está protestando en Holanda en contra del confinamiento y el toque de queda ¿A ellos no les dirán que son unos #Covidiotas ignorantes o qué? Pinches doble moralistas.#MexicoSeHunde
+ No los leo criticando a la gente que está protestando en Holanda en contra del confinamiento y el toque de queda ¿A ellos no les dirán que son unos `<entities_hastags>`#Covidiotas`</entities_hastags>` ignorantes o qué? Pinches doble moralistas.`<entities_hastags>`#MexicoSeHunde`</entities_hastags>`
 `<creationDate>` 26/01/2021 `</creationDate>`
 `</lang>`
 `</interp>`
