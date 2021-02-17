@@ -2,6 +2,7 @@
 layout: page
 title: reacciones al covid 
 ---
+## Marco Antonio Vazquez Quintero 
 # alegria / sadisfaccion 
 
 <blockquote class="twitter-tweet"><p lang="es" dir="ltr">Ella es mi abuela , tiene 95 años , se encontraba en la residencial la cual todos tenían coronavirus , fue diagnosticada con covid hace 1 mes , jamás tuvo síntomas hace un par de días le hicieron el segundo hisopado y dio negativo!! Es una leona. <a href="https://t.co/wb4DD49pBz">pic.twitter.com/wb4DD49pBz</a></p>&mdash; Matias Castro (@matiaascaastro) <a href="https://twitter.com/matiaascaastro/status/1349214025184391168?ref_src=twsrc%5Etfw">January 13, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
