@@ -11,10 +11,13 @@ Para el marcado de los tuits nos guiamos inicialmente por el trabajo de Julien L
 
 Para la representación del marcado y los textos, se decidió usar markdown en Github para poder representar el código TEI, a la vez que estudiamos las diversas capas de la representaión digital del texto.
 
-El grupo responsable de este sitio está formado por: 
-Alejandra Hernandez
-Anthia García Sánchez
-Joel Ivan
+El grupo responsable de este **sitio** está formado por: 
+#Alejandra Hernandez
+
+##Anthia García Sánchez
+
+###Joel Ivan
+
 Leonardo 
 Marco Vazquez
 
