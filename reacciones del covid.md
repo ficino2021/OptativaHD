@@ -293,3 +293,101 @@ a amlo le dio covi en mi cumpleaños gracias a todos por sus buenos deseos 🥰�
 
 # informativos 
 
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">La pérdida del olfato y el gusto es uno de los síntomas del covid-19. Según un nuevo estudio, personas con casos más leves de coronavirus presentaron más pérdida de olfato que aquellos con casos más severos. <a href="https://t.co/HUQOGIigT8">https://t.co/HUQOGIigT8</a></p>&mdash; CNN en Español (@CNNEE) <a href="https://twitter.com/CNNEE/status/1349261419452256257?ref_src=twsrc%5Etfw">January 13, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+`<tweet id=“MV16”>`
+`<author>`
+`<name>` CCN en Español `</name>`
+`<screenName>` @CNNEE `</screenName>`
+`</author>`
+`<tweetText>`
+`<interp type="infromativos">`
+`<lang type="ESP">`
+La pérdida del olfato y el gusto es uno de los síntomas del covid-19. Según un nuevo estudio, personas con casos más leves de coronavirus presentaron más pérdida de olfato que aquellos con casos más severos
+`<figure>`
+`<figDesc>` imagen de una mujer a la que le estan haciendo la prueba del covid con un cotonete por la nariz `</figDesc>`
+`</figure>`
+`<link target="https://t.co/HUQOGIigT8?amp=1"/>`
+`<creationDate>` 13/01/2021 `</creationDate>`
+`</lang>`
+`</interp>`
+`</tweetText>`
+`<source>` [https://twitter.com/CNNEE/status/1349261419452256257?s=19](https://twitter.com/CNNEE/status/1349261419452256257?s=19) `</source>`
+`</tweet>`
+
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Las mascarillas ayudan a protegerse del <a href="https://twitter.com/hashtag/COVID19?src=hash&amp;ref_src=twsrc%5Etfw">#COVID19</a>, pero se han vuelto un riesgo para la vida silvestre: cada vez más pájaros y criaturas marinas se quedan atrapados en la inmensa cantidad de mascarillas desechadas, que contaminan su hábitat. Video AFP <a href="https://t.co/9fU1PW786i">pic.twitter.com/9fU1PW786i</a></p>&mdash; TCS Noticias (@tcsnoticias) <a href="https://twitter.com/tcsnoticias/status/1349264925009485830?ref_src=twsrc%5Etfw">January 13, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+`<tweet id=“MV17”>`
+`<author>`
+`<name>` TCS Noticias `</name>`
+`<screenName>` @tcsnoticias `</screenName>`
+`</author>`
+`<tweetText>`
+`<interp type="infromativos">`
+`<lang type="ESP">`
+Las mascarillas ayudan a protegerse del `<entities_hastags>`#COVID19`</entities_hastags>`, pero se han vuelto un riesgo para la vida silvestre: cada vez más pájaros y criaturas marinas se quedan atrapados en la inmensa cantidad de mascarillas desechadas, que contaminan su hábitat. Video AFP
+`<figure>`
+`<figDesc>`un video donde se muestra animales mordiendo o enredados en cubrebocas, donde se narra a la vez los probelas ambientales que traen los cubrebocas desechables `</figDesc>`
+`</figure>`
+`<creationDate>` /01/2021 `</creationDate>`
+`</lang>`
+`</interp>`
+`</tweetText>`
+`<source>` [https://twitter.com/tcsnoticias/status/1349264925009485830?s=19](https://twitter.com/tcsnoticias/status/1349264925009485830?s=19) `</source>`
+`</tweet>`
+
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">¡Quédate en casa! Estado de México reporta una muerte por <a href="https://twitter.com/hashtag/Covid19?src=hash&amp;ref_src=twsrc%5Etfw">#Covid19</a> cada siete minutos <a href="https://t.co/JxWAknVXC2">https://t.co/JxWAknVXC2</a> <a href="https://t.co/jisxPCcDyn">pic.twitter.com/jisxPCcDyn</a></p>&mdash; Milenio (@Milenio) <a href="https://twitter.com/Milenio/status/1349236659238305795?ref_src=twsrc%5Etfw">January 13, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+`<tweet id=“MV18”>`
+`<author>`
+`<name>` Milenio `</name>`
+`<screenName>` @Milenio `</screenName>`
+`</author>`
+`<tweetText>`
+`<interp type="infromativos">`
+`<lang type="ESP">`
+¡Quédate en casa! Estado de México reporta una muerte por #Covid19 cada siete minutos `<link target="https://mile.io/2LGHHBw"/>`
+`<figure>`
+`<figDesc>` imagen de dos personas afuera de un hospital con mascarillas y carte usando un traje quirurjico `</figDesc>`
+`</figure>`
+`<creationDate>` 13/01/2021 `</creationDate>`
+`</lang>`
+`</interp>`
+`</tweetText>`
+`<source>` [https://twitter.com/Milenio/status/1349236659238305795?s=19](https://twitter.com/Milenio/status/1349236659238305795?s=19) `</source>`
+`</tweet>`
+
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">México alcanza nuevo récord de fallecimientos diarios por Coronavirus - <a href="https://t.co/QaezsO7bCD">https://t.co/QaezsO7bCD</a> <a href="https://t.co/RzY5qzLvsr">pic.twitter.com/RzY5qzLvsr</a></p>&mdash; Saludiario (@saludiario) <a href="https://twitter.com/saludiario/status/1349291450744385537?ref_src=twsrc%5Etfw">January 13, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+`<tweet id=“MV19”>`
+`<author>`
+`<name>` Saludiario `</name>`
+`<screenName>` @saludiario `</screenName>`
+`</author>`
+`<tweetText>`
+`<interp type="infromativos">`
+`<lang type="ESP">`
+México alcanza nuevo récord de fallecimientos diarios por Coronavirus - `<link target="https://saludiario.com/mexico-alcanza-nuevo-record-de-fallecimientos-diarios-por-coronavirus/"/>`
+`<figure>`
+`<figDesc>` imagen de lo que parece ser la cepa del coronavirus sobre un mapa mundi `</figDesc>`
+`</figure>`
+`<creationDate>` 31/01/2021 `</creationDate>`
+`</lang>`
+`</interp>`
+`</tweetText>`
+`<source>` [https://twitter.com/saludiario/status/1349291450744385537?s=19](https://twitter.com/saludiario/status/1349291450744385537?s=19) `</source>`
+`</tweet>`
+
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Debido al confinamiento derivado de la pandemia por <a href="https://twitter.com/hashtag/COVID?src=hash&amp;ref_src=twsrc%5Etfw">#COVID</a>-19, se estima que la depresión se incrementó del 5 al 25% a nivel mundial y para 2030 será la primera causa de discapacidad mental, advirtieron especialistas. <br><br>PG</p>&mdash; 88.9 Noticias (@889Noticias) <a href="https://twitter.com/889Noticias/status/1349060454451130371?ref_src=twsrc%5Etfw">January 12, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+`<tweet id=“MV20”>`
+`<author>`
+`<name>`88.9 Noticias `</name>`
+`<screenName>` @889Noticias `</screenName>`
+`</author>`
+`<tweetText>`
+`<interp type="infromativos">`
+`<lang type="ESP">`
+Debido al confinamiento derivado de la pandemia por `<#COVID-19, se estima que la depresión se incrementó del 5 al 25% a nivel mundial y para 2030 será la primera causa de discapacidad mental, advirtieron especialistas. 
+PG
+`<creationDate>` 12/01/2021 `</creationDate>`
+`</lang>`
+`</interp>`
+`</tweetText>`
+`<source>` [https://twitter.com/889Noticias/status/1349060454451130371?s=19](https://twitter.com/889Noticias/status/1349060454451130371?s=19) `</source>`
+`</tweet>`
