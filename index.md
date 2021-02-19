@@ -21,5 +21,6 @@ Anthia García Sánchez
 Joel Ivan
 
 Leonardo 
-Marco Vazquez
+
+Marco Antonio Vázquez Quintero 
 
