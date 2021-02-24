@@ -364,7 +364,7 @@ Lista de propósitos par el año 2020
 `<tweetText>`
 Ya le dije a Kobieta que seremos el romeo y julieta del coronavirus... nos veremos en secreto para que no nos contagiemos.
 `</tweetText>`
-`<interp></interp>`
+`<interp>pandemic life</interp>`
 `<source>`[https://twitter.com/Ipsorai/status/1244803650075136001?s=20](https://twitter.com/Ipsorai/status/1244803650075136001?s=20)`</source>`
 `</tweet>`
 
@@ -379,8 +379,8 @@ Ya le dije a Kobieta que seremos el romeo y julieta del coronavirus... nos verem
 `<tweetText>`
 Quizas la pandemia nos regale un gran grupo de profes con nuevas habilidades digitales... Y al fin algo cambie
 `</tweetText>`
-`<interp></interp>`
-`<source>` [https://twitter.com/epriani/status/1245390537651347461?s=20] (https://twitter.com/epriani/status/1245390537651347461?s=20) `</source>`
+`<interp>hope</interp>`
+`<source>` [https://twitter.com/epriani/status/1245390537651347461?s=20](https://twitter.com/epriani/status/1245390537651347461?s=20) `</source>`
 `</tweet>`
 
 <blockquote class="twitter-tweet"><p lang="es" dir="ltr">Datos científicos confirman la relación entre la pandemia y los sistemas de escritura. 😡😡😡 <a href="https://t.co/i6d4zkUIc4">https://t.co/i6d4zkUIc4</a></p>&mdash; marco m. (@Ipsorai) <a href="https://twitter.com/Ipsorai/status/1246252111853056001?ref_src=twsrc%5Etfw">April 4, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -404,7 +404,7 @@ Tweet citado de Violeta Vázquez-Rojas @violetavr
 `</figure>`
 `</tweetText>`
 `<interp>critic</interp>`
-`<source>` [https://twitter.com/Ipsorai/status/1246252111853056001?s=20] (https://twitter.com/Ipsorai/status/1246252111853056001?s=20) `</source>`
+`<source>` [https://twitter.com/Ipsorai/status/1246252111853056001?s=20](https://twitter.com/Ipsorai/status/1246252111853056001?s=20) `</source>`
 `</tweet>`
 
 
@@ -420,7 +420,7 @@ Tweet citado de Violeta Vázquez-Rojas @violetavr
 confirmen si el video de la banda blanca cantando Cielito Lindo les metió el covid por los ojos
 `</tweetText>`
 `<interp>funny critic</interp>`
-`<source>`[https://twitter.com/AquiDania/status/1249427942964428804?s=20] (https://twitter.com/AquiDania/status/1249427942964428804?s=20) `</source>`
+`<source>`[https://twitter.com/AquiDania/status/1249427942964428804?s=20](https://twitter.com/AquiDania/status/1249427942964428804?s=20) `</source>`
 `</tweet>`
 
 
@@ -437,7 +437,7 @@ confirmen si el video de la banda blanca cantando Cielito Lindo les metió el co
 `<tweetText>`
 Aber. La mortalidad en MX del Covid-19 por cada 100,000 personas es de 0.32 (según la actualización de ayer). ¿Qué tendrá más tasa de mortalidad que eso? Seguro una cascada de cosas que ahora estamos ignorando.
 `</tweetText>`
-`<interp></interp>`
+`<interp>critic pandemic life</interp>`
 `<source>` [https://twitter.com/Ipsorai/status/1250865459790036992?s=20](https://twitter.com/Ipsorai/status/1250865459790036992?s=20) `</source>`
 `</tweet>`
 
@@ -488,8 +488,8 @@ Hasta parece que quieren que llegue el equipo SWAT rompiendo ventanas y abduzca 
 `<tweetText>`
 Ya no quiero saber nada del covid-19 pq cada vez me da más miedo u.u
 `</tweetText>`
-`<interp>feelings</interp>`
-`<source>` [https://twitter.com/Mlle_Kwaii/status/1252103777282228224?s=20] (https://twitter.com/Mlle_Kwaii/status/1252103777282228224?s=20)`</source>`
+`<interp>react</interp>`
+`<source>` [https://twitter.com/Mlle_Kwaii/status/1252103777282228224?s=20](https://twitter.com/Mlle_Kwaii/status/1252103777282228224?s=20)`</source>`
 `</tweet>`
 
 
@@ -520,7 +520,7 @@ Por favor, repita lo que nos lleva diciendo las ultimas 5 semanas, como sabemos 
 Aquí, tratando de ser productiva (porque la cuarentena te obliga a trabajar en 1 de mayo) después de mi terapia de hoy :/
 `</tweetText>`
 `<interp>pandemic life</interp>`
-`<source>[https://twitter.com/Mlle_Kwaii/status/1256288254556377089?s=20] (https://twitter.com/Mlle_Kwaii/status/1256288254556377089?s=20)`</source>`
+`<source>`[https://twitter.com/Mlle_Kwaii/status/1256288254556377089?s=20](https://twitter.com/Mlle_Kwaii/status/1256288254556377089?s=20)`</source>`
 `</tweet>`
 
 <blockquote class="twitter-tweet"><p lang="es" dir="ltr">Podría haber dudas por el manejo de la pandemia por parte del gobierno federal.<br><br>No hay ninguna duda en la campaña golpeadora y mezquina de varios medios y opinólogos. <br><br>Qué ganas de ver fracasar la estrategia. Qué gozo carroñero.</p>&mdash; Rufián (@rufianmelancoli) <a href="https://twitter.com/rufianmelancoli/status/1258939265825849344?ref_src=twsrc%5Etfw">May 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -537,7 +537,7 @@ No hay ninguna duda en la campaña golpeadora y mezquina de varios medios y opin
 
 Qué ganas de ver fracasar la estrategia. Qué gozo carroñero.</tweetText>
 `<interp>critic</interp>`
-`<source>`[https://twitter.com/rufianmelancoli/status/1258939265825849344?s=20] (https://twitter.com/rufianmelancoli/status/1258939265825849344?s=20)`</source>`
+`<source>`[https://twitter.com/rufianmelancoli/status/1258939265825849344?s=20](https://twitter.com/rufianmelancoli/status/1258939265825849344?s=20)`</source>`
 `</tweet>`
 
 <blockquote class="twitter-tweet"><p lang="es" dir="ltr">Le prohibí tomar alcohol a mi papá durante la cuarentena xD. Le dije que sí lo hace me voy a enojar. <br>Yo necesito su sistema inmune y su cuerpo trabajando bien, al 100</p>&mdash; Champagne problems 🥂 (@Mlle_Kwaii) <a href="https://twitter.com/Mlle_Kwaii/status/1258916194196746243?ref_src=twsrc%5Etfw">May 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -552,7 +552,7 @@ Le prohibí tomar alcohol a mi papá durante la cuarentena xD. Le dije que sí l
 Yo necesito su sistema inmune y su cuerpo trabajando bien, al 100
 `</tweetText>`
 `<interp>pandemic life</interp>`
-`<source>`[https://twitter.com/Mlle_Kwaii/status/1258916194196746243?s=20] (https://twitter.com/Mlle_Kwaii/status/1258916194196746243?s=20)`</source>`
+`<source>`[https://twitter.com/Mlle_Kwaii/status/1258916194196746243?s=20](https://twitter.com/Mlle_Kwaii/status/1258916194196746243?s=20)`</source>`
 `</tweet>`
 
 
@@ -572,7 +572,7 @@ pos me mandó un ss de su boleto abierto a CDMX
 la intensidad
 `</tweetText>`
 `<interp>pandemic life</interp>`
-`<source>`[https://twitter.com/AquiDania/status/1258948011918589952?s=20] (https://twitter.com/AquiDania/status/1258948011918589952?s=20) `</source>`
+`<source>`[https://twitter.com/AquiDania/status/1258948011918589952?s=20](https://twitter.com/AquiDania/status/1258948011918589952?s=20) `</source>`
 `</tweet>`
 
 
@@ -588,7 +588,7 @@ la intensidad
 Me MAMA PERO ASI DEKE ME HACE TREMENDAMENTE FELIZ ME SACA UNA SONRISA, LO ESCUCHO Y EXCLAMO "CHULADA", el concepto de "nueva normalidad".
 `</tweetText>`
 `<interp>pandemic life</interp>`
-`<source>`[https://twitter.com/Kitsune_Amare_/status/1259207200427433985?s=20] (https://twitter.com/Kitsune_Amare_/status/1259207200427433985?s=20)`</source>`
+`<source>`[https://twitter.com/Kitsune_Amare_/status/1259207200427433985?s=20](https://twitter.com/Kitsune_Amare_/status/1259207200427433985?s=20)`</source>`
 `</tweet>`
 
 
@@ -625,12 +625,12 @@ Según mis observaciones la fiebre horneable de la cuarentena ha sucedido en tre
 `<tweetText>`
 creo más probable que yo desarrolle la vacuna para el corona virus en mi cocina a que despenalicen el aborto en Guanajuato</tweetText>
 `<interp>critic</interp>`
-`<source>`[https://twitter.com/AquiDania/status/1263908839314698240?s=20] (https://twitter.com/AquiDania/status/1263908839314698240?s=20)`</source>`
+`<source>`[https://twitter.com/AquiDania/status/1263908839314698240?s=20](https://twitter.com/AquiDania/status/1263908839314698240?s=20)`</source>`
 `</tweet>`
 
 
 
-<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Me MAMA PERO ASI DEKE ME HACE TREMENDAMENTE FELIZ ME SACA UNA SONRISA, LO ESCUCHO Y EXCLAMO &quot;CHULADA&quot;, el concepto de &quot;nueva normalidad&quot;.</p>&mdash; Dama Elegante (@Kitsune_Amare_) <a href="https://twitter.com/Kitsune_Amare_/status/1259207200427433985?ref_src=twsrc%5Etfw">May 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Nos dice LGatell que no es vidente, pero que el Covid-19 estará por aquí muchos años</p>&mdash; La Mónada é mobile (@epriani) <a href="https://twitter.com/epriani/status/1264354513651195904?ref_src=twsrc%5Etfw">May 24, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 `<tweet id=“ah05”>`
 `<author>`
 `<name>La Mónada é mobile</name>`
