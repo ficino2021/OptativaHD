@@ -1,8 +1,10 @@
 ---
 layout: page
-title: reacciones al covid 
+title: Reacciones al covid 
 ---
 Por Marco Antonio Vazquez Quintero 
+
+
 Para esta selección se intentó dividir al Covid-19 y su impacto no solo a la salud pública, sino a nivel social, en cuatro subtemas que podrían representar, a nuestra consideración, como fue retratado en su mayoría en redes sociales. Decidimos retratarlo en alegría/satisfacción: siendo una sección que representa el lado “bueno” de esto, gente que a través de redes sociales intenta retratar pequeños actos que al menos para ellos dan tintes de optimismo al panorama. Otro aspecto es la molestia/inconformidad: donde se intentó representar el aspecto pesimista, con tweets que dejen ver la critica a comportamientos o situaciones desalentadoras en la pandemia. El tercer subtema que se retrato fue el cómico: donde mostramos un panorama más simpático de la pandemia, donde los tweets elegidos se burlaban de la situación y la tomaban con humor. El último fue el informativo: en este recogimos tweets enfocados a las noticias que en teoría retratan el aspecto más objetivo de la pandemia, pues nos informan lo que va sucediendo con el desarrollo de la misma.
 
 Al hacer esta selección sobre la pandemia, se aprendió que hay muchos matices a nivel social que se pueden expresar de una misma cosa, y que se ven mayormente reflejados en redes sociales, donde cada usuario da sus propias ideas o perspectiva del fenómeno que más ruido este causando en su contexto. 
