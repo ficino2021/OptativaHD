@@ -3,7 +3,7 @@ layout: page
 title: Diarios Pandémicos
 ---
 
-# Diarios Pandémicos 
+ 
 #### ***Por Alejandra Hernández***
 
 ##### *Lo que se ha buscado a través de la selección de tuits fueron las vivencias de la "gente común" en la pandemia que inició en el 2020, esto incluye: los sentimientos, las críticas y los cambios de hábitos que conllevan, así como el lenguaje que se usa para referirse a este momento histórico.*
@@ -420,7 +420,7 @@ Tweet citado de Violeta Vázquez-Rojas @violetavr
 confirmen si el video de la banda blanca cantando Cielito Lindo les metió el covid por los ojos
 `</tweetText>`
 `<interp>funny critic</interp>`
-`<source>`[https://twitter.com/AquiDania/status/1249427942964428804?s=20](https://twitter.com/AquiDania/status/1249427942964428804?s=20) `</source>`
+`<source>`[https://twitter.com/AquiDania/status/1249427942964428804?s=20] (https://twitter.com/AquiDania/status/1249427942964428804?s=20) `</source>`
 `</tweet>`
 
 
