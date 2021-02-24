@@ -11,7 +11,7 @@ title: Diarios Pandémicos
 ##### *Las siguientes personas accedieron al análisis, marcaje y publicación de su información en la red social.*
 ##### *Una vez hecha una primera selección general de los tweets de acuerdo a las siguientes palabras clave se eligieron aleatoriamente los tweets que mejor mostraran la opinión y vivencia personal de cada usuario.*
 
-**Palabras Clave
+**Palabras Clave**
 
 * covid
 * coronavirus (coronavairus)
@@ -25,7 +25,7 @@ title: Diarios Pandémicos
 * nueva normalidad 
 * Gatell 
 
-**Usuarios
+**Usuarios**
 
 * @AquiDania
 * @beowulf_agate
