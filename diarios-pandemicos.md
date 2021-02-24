@@ -54,7 +54,7 @@ title: Diarios Pandémicos
 `<figDesc>` Videomeme hombre explicándole a una mujer algo al oido, mujer tiene cara de desagrado `</figDesc>`
 `</figure>`
 `</tweetText>`
-`<interp>funny</interp>`
+`<interp>meme</interp>`
 `<source>`[https://twitter.com/rufianmelancoli/status/1221145251269828608?s=20](https://twitter.com/rufianmelancoli/status/1221145251269828608?s=20)`</source>`
 `</tweet>`
 
@@ -132,7 +132,7 @@ El coronavirus llega a Querétaro. Se casa en Santa Clara. Al año de vivir acá
 
 
 <blockquote class="twitter-tweet"><p lang="es" dir="ltr">él: creo que me dio una versión más leve del coronavirus<br><br>yo: el tiaravirus<br><br>la comedia comienza desde temprano, sí que sí</p>&mdash; Dania (@AquiDania) <a href="https://twitter.com/AquiDania/status/1234867333186932738?ref_src=twsrc%5Etfw">March 3, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-`<tweet id=“ah03”>
+`<tweet id=“ah03”>`
 `<author>`
 `<name>Dania</name>`
 `<screenName>@AquiDania</screenName>`
@@ -142,7 +142,7 @@ El coronavirus llega a Querétaro. Se casa en Santa Clara. Al año de vivir acá
 yo: el tiaravirus
 
 la comedia comienza desde temprano, sí que sí`</tweetText>`
-`<interp>everyday life</interp>`
+`<interp>funny everyday life</interp>`
 `<source>`[https://twitter.com/AquiDania/status/1234867333186932738?s=20](https://twitter.com/AquiDania/status/1234867333186932738?s=20)`</source>`
 `</tweet>`
 
