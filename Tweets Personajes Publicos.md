@@ -8,7 +8,8 @@ title: Personajes publicos
 
 ## *El parametro de seleccion de los tweets fue en terminos generales: En primera instancia y obviamente como lomenciona el titulo que fuesen personajes publicos
 , independientemente de su nacionalidad y ocupacion; ademas de ser figuras publicas se tomaron muestras solo de sus tweets con tematica del COVD-19.
-Todos sabemos que la vida cotidiana no es igual para todos y sobretodo por las diferencias sociales, asi que la pregunta fue ¿aún sabiendo esto, que tiene que decir a su publico alguien tan influyente?*
+Todos sabemos que la vida cotidiana no es igual para todos y sobretodo por las diferencias sociales, asi que la pregunta fue ¿aún sabiendo esto, que tiene que decir a su publico alguien tan influyente?
+Joel Ivan Hdz Lopez*
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">stay safe! <a href="https://t.co/E1ITroirHX">pic.twitter.com/E1ITroirHX</a></p>&mdash; 板垣巴留🐺BEASTARSとか (@itaparu99) <a href="https://twitter.com/itaparu99/status/1326130521290629120?ref_src=twsrc%5Etfw">November 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
