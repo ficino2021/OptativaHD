@@ -6,12 +6,12 @@ title: Diarios Pandémicos
  
 #### ***Por Alejandra Hernández***
 
-##### *Lo que se ha buscado a través de la selección de tuits fueron las vivencias de la "gente común" en la pandemia que inició en el 2020, esto incluye: los sentimientos, las críticas y los cambios de hábitos que conllevan, así como el lenguaje que se usa para referirse a este momento histórico.*
+##### *Lo que se ha buscado a través de la selección de tweets fueron las vivencias de la "gente común" en la pandemia que inició en el 2020, esto incluye: sus sentimientos, las críticas y los cambios de hábitos que conllevó, así como el lenguaje que se usa para referirse a este momento histórico.*
 
 ##### *Las siguientes personas accedieron al análisis, marcaje y publicación de su información en la red social.*
 ##### *Una vez hecha una primera selección general de los tweets de acuerdo a las siguientes palabras clave se eligieron aleatoriamente los tweets que mejor mostraran la opinión y vivencia personal de cada usuario.*
 
-**Palabras Clave*
+**Palabras Clave
 
 * covid
 * coronavirus (coronavairus)
@@ -25,7 +25,7 @@ title: Diarios Pandémicos
 * nueva normalidad 
 * Gatell 
 
-**Usuarios*
+**Usuarios
 
 * @AquiDania
 * @beowulf_agate
@@ -508,3 +508,153 @@ Por favor, repita lo que nos lleva diciendo las ultimas 5 semanas, como sabemos 
 `<source>`[https://twitter.com/epriani/status/1255296195762835458?s=20](https://twitter.com/epriani/status/1255296195762835458?s=20)`</source>`
 `</tweet>`
 
+## MAYO 2020
+
+`<tweet id=“ah05”>`
+`<author>`
+`<name>Champagne problems</name>`
+`<screenName>@Mlle_Kwaii</screenName>`
+`</author>`
+`<creationDate>1 may. 2020</creationDate>`
+`<tweetText>`
+Aquí, tratando de ser productiva (porque la cuarentena te obliga a trabajar en 1 de mayo) después de mi terapia de hoy :/
+`</tweetText>`
+`<interp>pandemic life</interp>`
+`<source>[https://twitter.com/Mlle_Kwaii/status/1256288254556377089?s=20] (https://twitter.com/Mlle_Kwaii/status/1256288254556377089?s=20)`</source>`
+`</tweet>`
+
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Podría haber dudas por el manejo de la pandemia por parte del gobierno federal.<br><br>No hay ninguna duda en la campaña golpeadora y mezquina de varios medios y opinólogos. <br><br>Qué ganas de ver fracasar la estrategia. Qué gozo carroñero.</p>&mdash; Rufián (@rufianmelancoli) <a href="https://twitter.com/rufianmelancoli/status/1258939265825849344?ref_src=twsrc%5Etfw">May 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+`<tweet id=“ah05”>`
+`<author>`
+`<name>Rufián</name>`
+`<screenName>@rufianmelancoli</screenName>`
+`</author>`
+`<creationDate>8 may. 2020</creationDate>`
+`<tweetText>`
+Podría haber dudas por el manejo de la pandemia por parte del gobierno federal.
+
+No hay ninguna duda en la campaña golpeadora y mezquina de varios medios y opinólogos. 
+
+Qué ganas de ver fracasar la estrategia. Qué gozo carroñero.</tweetText>
+`<interp>critic</interp>`
+`<source>`[https://twitter.com/rufianmelancoli/status/1258939265825849344?s=20] (https://twitter.com/rufianmelancoli/status/1258939265825849344?s=20)`</source>`
+`</tweet>`
+
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Le prohibí tomar alcohol a mi papá durante la cuarentena xD. Le dije que sí lo hace me voy a enojar. <br>Yo necesito su sistema inmune y su cuerpo trabajando bien, al 100</p>&mdash; Champagne problems 🥂 (@Mlle_Kwaii) <a href="https://twitter.com/Mlle_Kwaii/status/1258916194196746243?ref_src=twsrc%5Etfw">May 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+`<tweet id=“ah05”>`
+`<author>`
+`<name>Champagne problems</name>`
+`<screenName>@Mlle_Kwaii</screenName>`
+`</author>`
+`<creationDate>8 may. 2020</creationDate>`
+`<tweetText>`
+Le prohibí tomar alcohol a mi papá durante la cuarentena xD. Le dije que sí lo hace me voy a enojar. 
+Yo necesito su sistema inmune y su cuerpo trabajando bien, al 100
+`</tweetText>`
+`<interp>pandemic life</interp>`
+`<source>`[https://twitter.com/Mlle_Kwaii/status/1258916194196746243?s=20] (https://twitter.com/Mlle_Kwaii/status/1258916194196746243?s=20)`</source>`
+`</tweet>`
+
+
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">existe un canadiense pelirrojo que me iba a venir a visitar en abril, pero pues covid<br><br>pos me mandó un ss de su boleto abierto a CDMX<br><br>la intensidad</p>&mdash; Dania (@AquiDania) <a href="https://twitter.com/AquiDania/status/1258948011918589952?ref_src=twsrc%5Etfw">May 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+`<tweet id=“ah05”>`
+`<author>`
+`<name>Dania</name>`
+`<screenName>@AquiDania</screenName>`
+`</author>`
+`<creationDate> 8 may. 2020</creationDate>`
+`<tweetText>`
+
+existe un canadiense pelirrojo que me iba a venir a visitar en abril, pero pues covid
+
+pos me mandó un ss de su boleto abierto a CDMX
+
+la intensidad
+`</tweetText>`
+`<interp>pandemic life</interp>`
+`<source>`[https://twitter.com/AquiDania/status/1258948011918589952?s=20] (https://twitter.com/AquiDania/status/1258948011918589952?s=20) `</source>`
+`</tweet>`
+
+
+
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Me MAMA PERO ASI DEKE ME HACE TREMENDAMENTE FELIZ ME SACA UNA SONRISA, LO ESCUCHO Y EXCLAMO &quot;CHULADA&quot;, el concepto de &quot;nueva normalidad&quot;.</p>&mdash; Dama Elegante (@Kitsune_Amare_) <a href="https://twitter.com/Kitsune_Amare_/status/1259207200427433985?ref_src=twsrc%5Etfw">May 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+`<tweet id=“ah05”>`
+`<author>`
+`<name>Dama Elegante</name>`
+`<screenName>@Kitsune_Amare_</screenName>`
+`</author>`
+`<creationDate>9 may. 2020</creationDate>`
+`<tweetText>`
+Me MAMA PERO ASI DEKE ME HACE TREMENDAMENTE FELIZ ME SACA UNA SONRISA, LO ESCUCHO Y EXCLAMO "CHULADA", el concepto de "nueva normalidad".
+`</tweetText>`
+`<interp>pandemic life</interp>`
+`<source>`[https://twitter.com/Kitsune_Amare_/status/1259207200427433985?s=20] (https://twitter.com/Kitsune_Amare_/status/1259207200427433985?s=20)`</source>`
+`</tweet>`
+
+
+
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Según mis observaciones la fiebre horneable de la cuarentena ha sucedido en tres etapas (a grandes rasgos):<br><br>1 pan de masa madre<br>2 pan de plátano<br>3 Roles De Canela Estilo Cinnabon</p>&mdash; la noche que Chicago c murió (@lahorandrea) <a href="https://twitter.com/lahorandrea/status/1262429096522461187?ref_src=twsrc%5Etfw">May 18, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+`<tweet id=“ah05”>`
+`<author>`
+`<name>¿gorbachov sigue vivo?</name>`
+`<screenName>@lahorandrea</screenName>`
+`</author>`
+`<creationDate>18 may. 2020</creationDate>`
+`<tweetText>`
+
+Según mis observaciones la fiebre horneable de la cuarentena ha sucedido en tres etapas (a grandes rasgos):
+
+1 pan de masa madre
+2 pan de plátano
+3 Roles De Canela Estilo Cinnabon
+`</tweetText>`
+`<interp>pandemic life</interp>`
+`<source>`[https://twitter.com/lahorandrea/status/1262429096522461187?s=20](https://twitter.com/lahorandrea/status/1262429096522461187?s=20)`</source>`
+`</tweet>`
+
+
+
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">creo más probable que yo desarrolle la vacuna para el corona virus en mi cocina a que despenalicen el aborto en Guanajuato</p>&mdash; Dania (@AquiDania) <a href="https://twitter.com/AquiDania/status/1263908839314698240?ref_src=twsrc%5Etfw">May 22, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+`<tweet id=“ah05”>`
+`<author>`
+`<name>Dania</name>`
+`<screenName>@AquiDania</screenName>`
+`</author>`
+`<creationDate> 22 may. 2020</creationDate>`
+`<tweetText>`
+creo más probable que yo desarrolle la vacuna para el corona virus en mi cocina a que despenalicen el aborto en Guanajuato</tweetText>
+`<interp>critic</interp>`
+`<source>`[https://twitter.com/AquiDania/status/1263908839314698240?s=20] (https://twitter.com/AquiDania/status/1263908839314698240?s=20)`</source>`
+`</tweet>`
+
+
+
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Me MAMA PERO ASI DEKE ME HACE TREMENDAMENTE FELIZ ME SACA UNA SONRISA, LO ESCUCHO Y EXCLAMO &quot;CHULADA&quot;, el concepto de &quot;nueva normalidad&quot;.</p>&mdash; Dama Elegante (@Kitsune_Amare_) <a href="https://twitter.com/Kitsune_Amare_/status/1259207200427433985?ref_src=twsrc%5Etfw">May 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+`<tweet id=“ah05”>`
+`<author>`
+`<name>La Mónada é mobile</name>`
+`<screenName>@epriani</screenName>`
+`</author>`
+`<creationDate>23 may. 2020</creationDate>`
+`<tweetText>`
+Nos dice LGatell que no es vidente, pero que el Covid-19 estará por aquí muchos años
+`</tweetText>`
+`<interp>everyday life</interp>`
+`<source>`[https://twitter.com/epriani/status/1264354513651195904?s=20](https://twitter.com/epriani/status/1264354513651195904?s=20) `</source>`
+`</tweet>`
+
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Me acabo de dar cuenta que todo lo que me gusta son cosas que no puedo hacer por la pandemia.</p>&mdash; Dama Elegante (@Kitsune_Amare_) <a href="https://twitter.com/Kitsune_Amare_/status/1265315382270676997?ref_src=twsrc%5Etfw">May 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+`<tweet id=“ah05”>`
+`<author>`
+`<name>Dama Elegante</name>`
+`<screenName>@Kitsune_Amare_</screenName>`
+`</author>`
+`<creationDate>26 may. 2020</creationDate>`
+`<tweetText>`
+
+Me acabo de dar cuenta que todo lo que me gusta son cosas que no puedo hacer por la pandemia.
+`</tweetText>`
+`<interp>everyday life</interp>`
+`<source>`[https://twitter.com/Kitsune_Amare_/status/1265315382270676997?s=20](https://twitter.com/Kitsune_Amare_/status/1265315382270676997?s=20)`</source>`
+`</tweet>`
