@@ -6,6 +6,9 @@ title: Polémica en la política
 
 # **Política polemica**
 
+ANTHIA BERENICE GARCÍA SÁNCHEZ
+Los tweets fueron elegidos a partir de las noticias más polemicas dentro de la política desde el inicio de la pandemia. Incluí principalmente a los líderes de 3 países. Los tweets van desde anuncios acerca de la pandemia, elecciones, etc.
+
 ## *México*
 
 <blockquote class="twitter-tweet"><p lang="es" dir="ltr">A la salida del hotel de Ometepec, saludé y atendí peticiones de la gente. Vamos a Xochistlahuaca. <a href="https://t.co/oNrRGriI1T">pic.twitter.com/oNrRGriI1T</a></p>&mdash; Andrés Manuel (@lopezobrador_) <a href="https://twitter.com/lopezobrador_/status/1238866717595578369?ref_src=twsrc%5Etfw">March 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
