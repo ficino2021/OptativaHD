@@ -6,6 +6,9 @@ title: Diarios Pandémicos
  
 #### ***Por Alejandra Hernández***
 
+###### *Disclaimer*: **este es un proyecto inconcluso que espera ser retomado en mi página principal.**
+###### **La intención de continuar con el proyecto es la de poder visualizar un inicio y un final emocional de lo que la gente consideró la pandemia COVID, se espera que se desarrolle con una muestra más grande** 
+
 ##### *Lo que se ha buscado a través de la selección de tweets fueron las vivencias de la "gente común" en la pandemia que inició en el 2020, esto incluye: sus sentimientos, las críticas y los cambios de hábitos que conllevó, así como el lenguaje que se usa para referirse a este momento histórico.*
 
 ##### *Las siguientes personas accedieron al análisis, marcaje y publicación de su información en la red social.*
